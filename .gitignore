@@ -67,7 +67,7 @@ stats.json
 *.npy
 *.sqlite3
 *.db
-!06_项目作品集/06_AI视频创作管理工具/frontend/src/assets/studio-mark.png
+!06_AI视频创作管理工具/frontend/src/assets/studio-mark.png
 
 # 运行时数据与生成物
 **/projects/
@@ -86,4 +86,4 @@ config.local.toml
 .claude/
 
 # 内嵌仓库（独立 git 仓库，不纳入本仓库）
-06_项目作品集/07-自动剪辑脚本/
+07-自动剪辑脚本/
