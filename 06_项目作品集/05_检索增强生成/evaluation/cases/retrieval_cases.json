@@ -1,0 +1,79 @@
+[
+  {
+    "case_id": "mosfet_buck_loss",
+    "query": "MOSFET Buck 电源 栅极驱动 导通损耗",
+    "mode": "balanced",
+    "expected_sources": [
+      "MOS.pptx",
+      "MOS Basics and Appication MOS基础与应用.pdf"
+    ],
+    "expected_keywords": [
+      "导通损耗",
+      "Buck",
+      "RDS-ON",
+      "QG"
+    ],
+    "notes": "验证 MOSFET/Buck/导通损耗相关资料能被召回。"
+  },
+  {
+    "case_id": "mosfet_switching_gate_charge",
+    "query": "MOS管开关损耗和栅极电荷 Qgd 有什么关系？",
+    "mode": "balanced",
+    "expected_sources": [
+      "MOS.pptx"
+    ],
+    "expected_locations": [
+      "Slide 61"
+    ],
+    "expected_slides": [
+      61
+    ],
+    "expected_keywords": [
+      "开关损耗",
+      "栅极电荷",
+      "Qgd"
+    ],
+    "notes": "验证 PPTX 中开关性能/栅极电荷页面的召回稳定性。"
+  },
+  {
+    "case_id": "mosfet_charger_drive_qg",
+    "query": "Qg 过大时 charger 驱动能力不足会导致什么问题？",
+    "mode": "balanced",
+    "expected_sources": [
+      "MOS.pptx"
+    ],
+    "expected_locations": [
+      "Slide 64"
+    ],
+    "expected_slides": [
+      64
+    ],
+    "expected_keywords": [
+      "Qg 过大",
+      "charger",
+      "驱动能力不足",
+      "不能开启"
+    ],
+    "notes": "验证带表格和说明文字的 slide 召回。"
+  },
+  {
+    "case_id": "power_mos_selection_conduction_loss",
+    "query": "Power MOS Selection 中 low conduction loss 主要看什么参数？",
+    "mode": "balanced",
+    "expected_sources": [
+      "MOS Basics and Appication MOS基础与应用.pdf"
+    ],
+    "expected_locations": [
+      "Page 22"
+    ],
+    "expected_pages": [
+      22
+    ],
+    "expected_keywords": [
+      "conduction loss",
+      "RDS-ON",
+      "Power MOS Selection"
+    ],
+    "notes": "验证 PDF 英文技术页的召回。"
+  }
+]

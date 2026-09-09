@@ -1,0 +1,89 @@
+# 敏感文件
+.env
+.env.local
+*.key
+secrets/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# 操作系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 日志和输出
+logs/
+*.log
+weather.json
+weather_many.json
+stats.json
+
+# 大体积素材与二进制（展示仓库不收录）
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.webp
+*.mp3
+*.wav
+*.m4a
+*.flac
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.zip
+*.7z
+*.rar
+*.npy
+*.sqlite3
+*.db
+!06_项目作品集/06_AI视频创作管理工具/frontend/src/assets/studio-mark.png
+
+# 运行时数据与生成物
+**/projects/
+**/data/works/
+**/output/
+**/tmp/
+**/history/
+chroma_db/
+results/
+
+# 个人配置与 AI 工具配置
+config.toml
+config.local.toml
+.kilo/
+.spec-workflow/
+.claude/
+
+# 内嵌仓库（独立 git 仓库，不纳入本仓库）
+06_项目作品集/07-自动剪辑脚本/

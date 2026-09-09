@@ -1,0 +1,31 @@
+{
+  "method_id": "document_context_v1",
+  "description": "文档向量检索 + 父上下文扩展",
+  "steps": [
+    {
+      "name": "chunk_vector",
+      "operator": "vector_search",
+      "backend": "postgres_pgvector",
+      "params": {
+        "top_k": 8
+      }
+    },
+    {
+      "name": "expand_context",
+      "operator": "parent_expand",
+      "backend": "postgres_pgvector",
+      "params": {
+        "window": 1
+      }
+    },
+    {
+      "name": "rerank_evidence",
+      "operator": "rerank",
+      "backend": "postgres_pgvector",
+      "params": {
+        "top_k": 8,
+        "max_chars": 2000
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "method_id": "document_vector_v1",
+  "description": "普通文档向量检索",
+  "steps": [
+    {
+      "name": "chunk_vector",
+      "operator": "vector_search",
+      "backend": "postgres_pgvector",
+      "params": {
+        "top_k": 12
+      }
+    },
+    {
+      "name": "rerank_evidence",
+      "operator": "rerank",
+      "backend": "postgres_pgvector",
+      "params": {
+        "top_k": 5,
+        "max_chars": 2000
+      }
+    }
+  ]
+}

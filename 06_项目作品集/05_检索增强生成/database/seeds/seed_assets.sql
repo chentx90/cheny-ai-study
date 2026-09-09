@@ -1,0 +1,2 @@
+INSERT INTO kb_assets (document_id, chunk_id, asset_type, asset_url, caption, ocr_text, description, physical_context) VALUES
+((SELECT id FROM kb_documents WHERE title = '液压系统维护手册' LIMIT 1), (SELECT id FROM kb_chunks WHERE section_path = '设备维护 > 液压系统 > 压力不足' LIMIT 1), 'image', '/assets/images/hydraulic_filter_001.png', '液压滤器结构图', '滤器过滤网孔尺寸为200目', '液压滤器的详细结构，用于故障诊断', '{"page": 18, "position": "right"}'::JSONB);

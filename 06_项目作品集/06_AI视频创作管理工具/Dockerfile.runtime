@@ -1,0 +1,33 @@
+# Runtime-only image for environments that cannot pull node from Docker Hub.
+# Expects frontend/dist already built on the host.
+FROM python:3.11-slim
+
+WORKDIR /app
+
+ENV PYTHONDONTWRITEBYTECODE=1 \
+    PYTHONUNBUFFERED=1 \
+    AVM_WORKSPACE_ROOT=/data \
+    AVM_DB_PATH=/data/database/app.db \
+    AVM_STATIC_DIR=/app/frontend/dist \
+    AVM_SERVE_UI=1
+
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends ca-certificates \
+    && rm -rf /var/lib/apt/lists/*
+
+COPY pyproject.toml README.md ./
+COPY src/ ./src/
+COPY config/default_prompt_templates.json ./config/
+RUN pip install --no-cache-dir .
+
+COPY frontend/dist ./frontend/dist
+
+RUN mkdir -p /data/database /data/projects /data/config
+
+VOLUME ["/data"]
+EXPOSE 8000
+
+HEALTHCHECK --interval=30s --timeout=5s --start-period=20s --retries=3 \
+  CMD python -c "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/api/health')" || exit 1
+
+CMD ["uvicorn", "ai_video_manager.api.app:create_app", "--factory", "--host", "0.0.0.0", "--port", "8000"]

@@ -1,0 +1,9 @@
+# 数据（敏感，不提交）
+chroma_db/
+results/
+*.npy
+
+# Python
+__pycache__/
+*.pyc
+.venv/

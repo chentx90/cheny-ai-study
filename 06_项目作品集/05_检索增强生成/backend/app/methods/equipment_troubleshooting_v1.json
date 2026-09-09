@@ -1,0 +1,37 @@
+{
+  "method_id": "equipment_troubleshooting_v1",
+  "description": "设备故障排查检索，返回文本证据和图片资产",
+  "steps": [
+    {
+      "name": "chunk_vector",
+      "operator": "vector_search",
+      "backend": "postgres_pgvector",
+      "params": {
+        "top_k": 8
+      }
+    },
+    {
+      "name": "expand_context",
+      "operator": "parent_expand",
+      "backend": "postgres_pgvector",
+      "params": {
+        "window": 1
+      }
+    },
+    {
+      "name": "rerank_evidence",
+      "operator": "rerank",
+      "backend": "postgres_pgvector",
+      "params": {
+        "top_k": 8,
+        "max_chars": 2000
+      }
+    },
+    {
+      "name": "fetch_assets",
+      "operator": "asset_fetch",
+      "backend": "postgres_pgvector",
+      "params": {}
+    }
+  ]
+}

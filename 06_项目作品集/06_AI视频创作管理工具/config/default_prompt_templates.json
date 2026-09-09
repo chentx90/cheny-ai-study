@@ -1,0 +1,189 @@
+[
+  {
+    "id": "tpl_example_split_planning",
+    "name": "示例：剧情时长切分",
+    "category": "split_planning",
+    "variables": [
+      "minutes",
+      "content"
+    ],
+    "is_default": false,
+    "template": "模板用途：按剧情节奏把长文本切成项目分集原文。\n\n变量说明：\n- $minutes：每集目标时长，单位分钟，用来估算每集承载的剧情密度。\n- $content：待切分的完整原文。\n\n设计要求：\n- 只做分集，不改写内容。\n- 每集应是连续原文片段，不要丢段、跳段、合并不相邻内容。\n- 输出必须是 JSON 字符串数组，例如 [\"第一集原文\", \"第二集原文\"]。\n- 不要输出解释、Markdown、标题或推理过程。\n\n每集目标时长：$minutes 分钟\n\n原文：\n$content"
+  },
+  {
+    "id": "tpl_example_script_convert",
+    "name": "示例：原文转剧本",
+    "category": "script_convert",
+    "variables": [
+      "content_type",
+      "content"
+    ],
+    "is_default": false,
+    "template": "模板用途：把单集原文转换成可继续生成视频提示词的剧本文本。\n\n变量说明：\n- $content_type：当前输入类型，例如小说原文、口播稿、分集原文、已有剧本。\n- $content：当前集的完整内容。\n\n设计要求：\n- 保留原剧情、人物关系、关键动作和对白，不额外扩写新剧情。\n- 按线性顺序组织为场景、动作、对白；不写视频提示词、运镜说明或模型参数。\n- 输出纯剧本文本，不要 Markdown 包裹，不要解释，不要推理过程。\n\n输入类型：$content_type\n\n内容：\n$content"
+  },
+  {
+    "id": "tpl_example_entity_extract",
+    "name": "示例：实体提取 JSON",
+    "category": "entity_extract",
+    "variables": [
+      "episode_title",
+      "episode_order",
+      "episode_script"
+    ],
+    "is_default": false,
+    "template": "模板用途：从单集剧本中识别需要建立视觉资产的人物、场景、物品及其证据。\n\n变量说明：\n- $episode_title：当前分集标题。\n- $episode_order：当前分集序号。\n- $episode_script：当前集完整剧本。\n\n设计要求：\n- 只返回 JSON 对象，不要解释、Markdown 或推理过程。\n- 格式：{\"entities\":[{\"name\":\"规范候选名\",\"type\":\"character|scene|prop\",\"aliases\":[\"别名\"],\"role\":\"protagonist|supporting|minor|guest|\",\"importance\":\"S|A|B|C\",\"evidence\":[\"剧本中的短证据片段\"],\"variants\":[{\"name\":\"状态名\",\"setting\":\"状态视觉差异\"}]}]}。\n- type 只能是 character、scene、prop；人物才填写 role。\n- evidence 必须能在本集剧本中定位；不要臆造未出现实体。\n\n分集：第 $episode_order 集《$episode_title》\n\n剧本：\n$episode_script"
+  },
+  {
+    "id": "tpl_example_subject_match",
+    "name": "示例：主体匹配 JSON",
+    "category": "subject_match",
+    "variables": [
+      "prompt_card",
+      "entity_catalog"
+    ],
+    "is_default": false,
+    "template": "模板用途：根据一张提示词卡片，判断它应该绑定哪些已有实体卡。\n\n变量说明：\n- $prompt_card：当前提示词卡片，包含标题、原文摘录、提示词正文、已有锚定等信息。\n- $entity_catalog：项目实体卡目录，包含实体 ID、名称、类型、状态和素材信息。\n\n设计要求：\n- 只返回一个 JSON 对象，不要解释，不要 Markdown，不要推理过程。\n- 格式：{\"matches\":[{\"entity_card_id\":\"实体卡ID\",\"reason\":\"匹配原因\"}]}。\n- matches 必须是数组；无匹配时返回 {\"matches\":[]}。\n- 只能返回 entity_catalog 中真实存在的 entity_card_id。\n- 只绑定画面中实际需要保持一致性的主体、场景或关键物品；不要把所有实体都绑定上。\n\n当前提示词卡片：\n$prompt_card\n\n实体卡目录：\n$entity_catalog"
+  },
+  {
+    "id": "tpl_example_prompt_split",
+    "name": "示例：提示词剧情切分",
+    "category": "prompt_split",
+    "variables": [
+      "script",
+      "entity_catalog",
+      "max_duration_seconds",
+      "expected_total_duration_seconds"
+    ],
+    "is_default": false,
+    "template": "模板用途：把本集剧本切成多段视频提示词卡片，只切分剧情边界，不写视频提示词。\n\n变量说明：\n- $script：当前集完整剧本。\n- $entity_catalog：项目实体卡库，仅供理解人物/场景，不要在输出里写完整提示词。\n- $max_duration_seconds：单段最长秒数。\n- $expected_total_duration_seconds：本集预期总时长，仅作节奏参考；未指定时按剧情自然切分。\n\n设计要求：\n- 必须覆盖完整剧本，按剧情线性推进，不要丢段、跳段。\n- 只输出一个 JSON 对象：{\"chunks\":[{\"title\":\"片段N 简述\",\"duration\":12,\"script_excerpt\":\"连续原文摘录\"}]}。\n- duration 必须 <= $max_duration_seconds。\n- script_excerpt 必须是 $script 中的连续原文，便于定位。\n- 不要写运镜、光影、完整视频提示词。\n- 不要输出解释、Markdown、推理过程。\n\n单段最长秒数：$max_duration_seconds\n预期总时长：$expected_total_duration_seconds\n\n实体卡库：\n$entity_catalog\n\n本集剧本：\n$script"
+  },
+  {
+    "id": "tpl_example_video_generate",
+    "name": "示例：单卡生成视频提示词",
+    "category": "video_generate",
+    "variables": [
+      "script_excerpt",
+      "entity_catalog",
+      "max_duration_seconds",
+      "neighbor_context"
+    ],
+    "is_default": false,
+    "template": "你是「即梦2.0视频提示词专家」。根据已切分好的单段剧本原文，生成一张结构化视频提示词卡片。\n\n## 输入变量\n- $script_excerpt：本卡对应的连续剧本原文，是唯一剧情来源，不要扩写新剧情。\n- $entity_catalog：项目实体卡库，用于保持人物、场景、物品一致性。\n- $max_duration_seconds：本卡建议最长视频时长（秒）。\n- $neighbor_context：前后卡摘要 JSON，用于衔接；可能为 []。\n\n## 输出要求（必须严格遵守）\n- 只输出一个 JSON 对象，不要 Markdown、不要解释、不要 thinking。\n- 格式：{\"title\":\"片段N 简述\",\"duration\":12,\"prompt_text\":\"完整视频提示词正文\"}\n- duration 必须是数字，且 <= $max_duration_seconds。\n- prompt_text 必须是可直接用于视频生成的正文，建议包含：两行风格描述、[声音角色物品场景锚定]、[0.0-X.Xs]|切画面：以及【机位】【场景】【光影】【动作链】【运镜】【台词】。\n\n## 时间与衔接\n- 本卡时间从 0.0 开始，总时长不超过 $max_duration_seconds 秒。\n- 参考 $neighbor_context 保持前后衔接；只覆盖 $script_excerpt。\n\n单卡最长秒数：$max_duration_seconds\n\n前后卡上下文：\n$neighbor_context\n\n实体卡库：\n$entity_catalog\n\n本卡原文：\n$script_excerpt"
+  },
+  {
+    "id": "tpl_example_prompt_rerun",
+    "name": "示例：单卡重跑提示词",
+    "category": "prompt_rerun",
+    "variables": [
+      "script_excerpt",
+      "entity_catalog",
+      "max_duration_seconds",
+      "target_card",
+      "generated_context"
+    ],
+    "is_default": false,
+    "template": "模板用途：只重写一张已切分卡片的视频提示词，不重新切分，不改原文边界。\n\n变量说明：\n- $script_excerpt：目标卡已固定的原文摘录。\n- $entity_catalog：项目实体卡库。\n- $max_duration_seconds：目标卡建议最长视频时长。\n- $target_card：目标卡元数据（ID、顺序、原提示词等）。\n- $generated_context：本集其它卡片摘要，用于衔接。\n\n设计要求：\n- 只输出一个 JSON 对象：{\"title\":\"片段N 简述\",\"duration\":12,\"prompt_text\":\"完整视频提示词\"}。\n- 不要修改原文边界，不要输出多张卡。\n- 参考 generated_context 保持前后衔接。\n- 不要输出解释、Markdown、推理过程或 thinking 内容。\n\n目标卡片：\n$target_card\n\n已生成上下文：\n$generated_context\n\n实体卡库：\n$entity_catalog\n\n本卡原文：\n$script_excerpt"
+  },
+  {
+    "id": "tpl_example_video_agent",
+    "name": "示例：视频生成请求整理",
+    "category": "video_agent",
+    "variables": [
+      "segment",
+      "prompt"
+    ],
+    "is_default": false,
+    "template": "模板用途：把分集信息和提示词整理为视频生成服务请求建议。\n\n变量说明：\n- $segment：当前分集或片段信息。\n- $prompt：已确认的视频提示词正文。\n\n设计要求：\n- 不改写剧情，不重新生成提示词。\n- 只基于输入整理请求参数建议，例如时长、画幅、素材引用注意点。\n- 不要输出推理过程。\n\n片段信息：\n$segment\n\n提示词：\n$prompt"
+  },
+  {
+    "id": "tpl_example_workflow_agent",
+    "name": "示例：项目工作流命令规划",
+    "category": "workflow_agent",
+    "variables": [
+      "user_request",
+      "project_context",
+      "current_view",
+      "active_context",
+      "command_catalog",
+      "observations",
+      "step",
+      "conversation_context"
+    ],
+    "is_default": false,
+    "template": "模板用途：作为项目工作流 ReAct Agent，每轮根据用户目标、会话上下文、项目实时状态和已有工具观察决定一个下一步动作，直到任务完成。\n\n变量说明：\n- $user_request：用户本轮最终目标。\n- $conversation_context：按 Token 预算压缩的历史摘要、未压缩近期对话和当前分支信息。\n- $project_context：当前项目实时轻量摘要，只提供实体索引和生成状态，不包含完整实体详情。\n- $current_view：用户当前所在页面。\n- $active_context：当前选集、实体或提示词卡等 ID。\n- $command_catalog：允许调用的结构化工具及参数。\n- $observations：本轮已执行工具的返回；大型结果可能只有 result_ref、summary 和 chars。\n- $step：当前 ReAct 步数。\n\n输出要求：\n- 只返回 JSON 对象，不要 Markdown、解释、推理过程或 thinking。\n- 需要调用工具时：{\"message\":\"当前动作说明\",\"done\":false,\"action\":{\"command\":\"命令 ID\",\"arguments\":{},\"reason\":\"执行原因\"}}。\n- 已完成或只需回答时：{\"message\":\"给用户的最终结果\",\"done\":true,\"action\":null}。\n- 每轮最多调用一个工具。工具执行结果会进入下一轮 $observations。\n- 必须先使用 entity_assets.profile_index，不得把已有实体误判为需要重新提取。名称未命中或 index_truncated=true 时调用 entity-profile.search；需要完整设定、证据、变体或提示词时调用 entity-profile.show。\n- 生成实体图片时按缺失步骤继续：无设定调用 entity.generate-setting；无资产提示词调用 entity.generate-asset-prompt；已有提示词则调用 entity.generate-images。只有 profile_count 为 0 或用户明确要求重新分析剧本时，才调用 entity.extract。\n- 工具观察含 result_ref 且摘要不足以继续时，调用 agent-result.read 分段读取；不得虚构被引用的正文。\n- 信息不足时调用只读工具；不得虚构项目、分集、实体、素材、卡片 ID 或文件内容。\n- 用户要求先读剧本再生成项目提示词时，先调用 script.show；若结果被引用则按需调用 agent-result.read，归纳后调用 project.settings.update。\n- 用户提到“资产生成、风格预设、视觉风格”时，先用 visual-style.list 确认已有版本，再用 visual-style.save 新建或基于 style_id 保存新版；不得使用 project.settings.update 代替。项目全局 project_style_prompt 与资产视觉风格是两个不同数据域。\n- 读取或写入项目文件时使用 file.list、file.read、file.write，路径必须是当前项目内相对路径。\n- arguments 中所有项目工具必须携带当前 project_id。\n- 不得生成 Shell、SQL、系统路径访问或工具目录外操作。\n- 写入、覆盖、外部调用会由系统暂停并请求用户确认。\n\n当前步数：\n$step\n\n当前分支与历史上下文：\n$conversation_context\n\n当前页面：\n$current_view\n\n当前活动上下文：\n$active_context\n\n项目实时上下文：\n$project_context\n\n已有工具观察：\n$observations\n\n允许工具：\n$command_catalog\n\n用户目标：\n$user_request"
+  },
+  {
+    "id": "tpl_example_entity_consolidate",
+    "name": "示例：跨集实体聚合 JSON",
+    "category": "entity_consolidate",
+    "variables": [
+      "extraction_catalog"
+    ],
+    "is_default": false,
+    "template": "模板用途：把各集提取候选中的同一实体、别名和状态合并。\n\n变量说明：\n- $extraction_catalog：包含分集 ID、序号和实体候选的 JSON。\n\n设计要求：\n- 只返回 JSON 对象，不要解释、Markdown 或推理过程。\n- 格式：{\"profiles\":[{\"canonical_name\":\"规范名称\",\"type\":\"character|scene|prop\",\"aliases\":[\"别名\"],\"role\":\"protagonist|supporting|minor|guest|\",\"importance\":\"S|A|B|C\",\"member_names\":[\"原候选名\"],\"variants\":[{\"name\":\"状态名\",\"setting\":\"视觉差异\"}]}]}。\n- 不同类型不能合并；不确定是否同一实体时保持分开。\n\n候选目录：\n$extraction_catalog"
+  },
+  {
+    "id": "tpl_example_entity_setting",
+    "name": "示例：实体设定生成 JSON",
+    "category": "entity_setting",
+    "variables": [
+      "entity_profile"
+    ],
+    "is_default": false,
+    "template": "模板用途：根据已审核实体档案生成稳定、可用于资产生产的视觉设定。\n\n变量说明：\n- $entity_profile：实体名称、类型、别名、出现集、证据和状态的 JSON。\n\n设计要求：\n- 只返回 JSON 对象：{\"setting\":\"基础视觉设定\",\"variants\":[{\"name\":\"状态名\",\"setting\":\"仅描述相对基础设定的视觉变化\"}]}。\n- 只使用档案证据；缺失信息应保持中性，不臆造剧情事实。\n- 不包含项目画风和模型参数，不要解释或推理过程。\n\n实体档案：\n$entity_profile"
+  },
+  {
+    "id": "tpl_example_character_asset_prompt",
+    "name": "示例：人物资产提示词 JSON",
+    "category": "character_asset_prompt",
+    "variables": [
+      "entity_name",
+      "entity_setting",
+      "variant_setting",
+      "project_style_prompt",
+      "project_negative_prompt",
+      "type_prompt",
+      "type_negative_prompt",
+      "reference_summary",
+      "view_type"
+    ],
+    "is_default": false,
+    "template": "模板用途：生成人物设定资产提示词。\n只返回 JSON 对象：{\"prompt_text\":\"正向提示词\",\"negative_prompt\":\"负向提示词\"}，不要解释或推理过程。\n人物：$entity_name\n基础设定：$entity_setting\n状态：$variant_setting\n视图：$view_type\n项目风格：$project_style_prompt\n项目负向：$project_negative_prompt\n人物专用要求：$type_prompt\n人物专用负向：$type_negative_prompt\n参考素材摘要：$reference_summary"
+  },
+  {
+    "id": "tpl_example_scene_asset_prompt",
+    "name": "示例：场景资产提示词 JSON",
+    "category": "scene_asset_prompt",
+    "variables": [
+      "entity_name",
+      "entity_setting",
+      "variant_setting",
+      "project_style_prompt",
+      "project_negative_prompt",
+      "type_prompt",
+      "type_negative_prompt",
+      "reference_summary",
+      "view_type"
+    ],
+    "is_default": false,
+    "template": "模板用途：生成场景设定资产提示词。\n只返回 JSON 对象：{\"prompt_text\":\"正向提示词\",\"negative_prompt\":\"负向提示词\"}，不要解释或推理过程。\n场景：$entity_name\n基础设定：$entity_setting\n时间天气等变体：$variant_setting\n视图：$view_type\n项目风格：$project_style_prompt\n项目负向：$project_negative_prompt\n场景专用要求：$type_prompt\n场景专用负向：$type_negative_prompt\n参考素材摘要：$reference_summary"
+  },
+  {
+    "id": "tpl_example_prop_asset_prompt",
+    "name": "示例：物品资产提示词 JSON",
+    "category": "prop_asset_prompt",
+    "variables": [
+      "entity_name",
+      "entity_setting",
+      "variant_setting",
+      "project_style_prompt",
+      "project_negative_prompt",
+      "type_prompt",
+      "type_negative_prompt",
+      "reference_summary",
+      "view_type"
+    ],
+    "is_default": false,
+    "template": "模板用途：生成物品设定资产提示词。\n只返回 JSON 对象：{\"prompt_text\":\"正向提示词\",\"negative_prompt\":\"负向提示词\"}，不要解释或推理过程。\n物品：$entity_name\n基础设定：$entity_setting\n状态：$variant_setting\n视图：$view_type\n项目风格：$project_style_prompt\n项目负向：$project_negative_prompt\n物品专用要求：$type_prompt\n物品专用负向：$type_negative_prompt\n参考素材摘要：$reference_summary"
+  }
+]

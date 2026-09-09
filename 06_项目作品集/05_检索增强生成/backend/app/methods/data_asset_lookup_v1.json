@@ -1,0 +1,14 @@
+{
+  "method_id": "data_asset_lookup_v1",
+  "description": "表、字段、指标等数据资产检索",
+  "steps": [
+    {
+      "name": "data_asset_vector",
+      "operator": "data_asset_search",
+      "backend": "postgres_pgvector",
+      "params": {
+        "top_k": 8
+      }
+    }
+  ]
+}

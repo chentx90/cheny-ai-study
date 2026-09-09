@@ -1,0 +1,18 @@
+# AI漫剧管理器 配置文件
+
+[llm]
+# 统一通过 NewAPI 中转，使用 OpenAI 兼容接口
+# NewAPI 负责路由到不同的底层模型 (GPT/Claude/Qwen等)
+provider = "newapi"
+# model = "mimo-v2.5"   
+model = "gemini-3.1-pro-preview"               # NewAPI 中配置的模型名称
+api_key = ""  # 请勿提交真实 Key，改用环境变量 NEWAPI_API_KEY
+base_url = "http://localhost:3000/v1"  # NewAPI 地址 (根据实际部署修改)
+
+[project]
+default_style = "动画"
+max_panels_per_chunk = 20
+chunk_size = 5000
+
+[version]
+auto_commit = true

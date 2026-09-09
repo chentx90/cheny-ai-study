@@ -1,0 +1,1724 @@
+4 法學論著 軍法專刊第 56 卷第 4 期 趙國材
+論國際人道法適用於內戰之發展
+趙國材*
+目 次
+壹、緒言
+貳、內戰
+一、內戰（稱國內武裝衝突或非國際性武裝衝
+突）是一國主權範圍內之事
+二、國家實踐
+參、國際人道法
+一、國際人道法之發軔
+二、《國際人道法》之幾項基本原則
+三、內戰亦適用國際人道法規則
+肆、1949 年《日內瓦公約》共同第三條
+一、1949 年《日內瓦公約》共同第三條之誕生
+二、《日內瓦公約》共同第三條之草案
+三、外國對叛亂團體或交戰團體之承認
+四、《日內瓦公約》共同第三條之涵義
+五、《日內瓦公約》共同第三條之法律地位
+【案例】在尼加拉瓜境內針對該國的軍事與準軍
+事行動案（尼加拉瓜訴美國）
+伍、1977 年《日內瓦公約第二附加議定書》
+一、《日內瓦公約第二附加議定書》適用於內
+戰之人道法規則
+二、第二附加議定書之內容
+三、第二附加議定書之適用範圍及其與《日內
+瓦公約》共同第三條之關係
+四、第二附加議定書中某些條款之習慣法地位
+及其適用範圍之擴大
+A.檢察官訴塔迪奇案（ ）
+B.檢 察 官 訴 阿 卡 蘇 案（
+）
+C.檢察官訴諾曼案（
+）
+陸、國際人道法在維持國家和平軍事行動中之適用
+一、國際人道法適用於聯合國維持國家和平部
+隊之爭議
+二、國際人道法之一般性法律原則及精神
+三、聯合國部隊遵守國際人道法之秘書長公告
+柒、結論
+一、中央政府為維護國家統一和領土完整得使
+用武力對抗分裂
+二、國家希望藉主權來保持對於國內武裝衝突
+之控制
+三、國家不願意將完整的國際人道法規則適用
+於國內武裝衝突
+四、國際人道法由保護國家利益逐漸趨向保護
+平民利益
+五、日內瓦第二附加議定書是對日內瓦公約共
+同第三條之補充
+六、國際人道法適用於國內武裝衝突之普遍化
+七、聯合國維持和平部隊有遵循國際人道法之
+義務
+八、在武裝衝突期間緩期執行死刑
+內戰、國際人道法、1949 年《日內瓦公約》共同第三條、1977 年《日內瓦公約第二
+附加議定書》、檢察官訴塔迪奇案、檢察官訴阿卡蘇案、檢察官訴諾曼案。
+Keywords：Civil Strife、International Humanitarian Law、Common Article 3 of the 1949 Geneva
+Conventions、Protocol II to the Geneva Conventions of 1949、 、
+、 .
+* 趙國材，英國愛丁堡大學法學博士，國立政治大學外交學系教授，中央研究院歐美研究所訪問學人。
+趙國材 論國際人道法適用於內戰之發展 法學論著 5
+摘 要
+本文旨在探討國際人道法適用於內戰之發展，除緒言與結論外，分別論述
+內戰、國際人道法、1949 年《日內瓦公約》共同第三條，1977 年《日內瓦公
+約第二附加議定書》，國際人道法在維持國家和平軍事行動中之適用，結論揭
+示中央政府為維護國家統一和領土完整得使用武力對抗分裂、國家希望藉主權
+來保持對於國內武裝衝突之控制、國家不願意將完整的國際人道法規則適用於
+國內武裝衝突、國際人道法由保護國家利益逐漸趨向保護平民利益、日內瓦第
+二附加議定書是對日內瓦公約共同第三條之補充、聯合國維持和平部隊在執行
+維持和平行動和武力執行行動中參與武裝衝突情況下，亦有遵循國際人道法之
+義務。國際人道法具有普世價值，適用於國際及國內武裝衝突。
+The Development of International Humanitarian Law Applicable in
+Civil Strife
+John K.T. Chao
+Abstract
+This article is mainly focus on the development of international humanitarian
+law applicable in civil strife, first examines civil war and international
+humanitarian law. It then examines Common Article 3 of the 1949 Geneva
+Conventions and the 1977 Protocol II to the Geneva Conventions of 1949.
+Final section concludes that the central government may use force to guard
+its national unity, territorial integrality and political independence against
+secession of State. State does wish to employ sovereignty in order to maintain
+and control internal armed conflict; it does not wish fully applicable International
+Humanitarian Law to internal armed conflict. The International Humanitarian
+Law begins from protection of national interest towards protection of civilian.
+The 1977 Protocol II to the Geneva Conventions of 1949 is a supplement to
+the Common Article 3 of the 1949 Geneva Conventions. The United Nations
+peacekeeping forces in situations of armed conflict involved in peacekeeping
+operations and enforcement action may oblige to observe international
+humanitarian Law; any violations of international humanitarian law shall lead
+to corresponding liabilities. The international humanitarian law is commonly
+accepted as with universal value and applicable in both international armed
+conflict and civil strife.
+6 法學論著 軍法專刊第 56 卷第 4 期 趙國材
+壹、緒 言
+1998 年以來，全世界發生 27 次重大武
+裝衝突，其中有 25 次是國家內部的武裝衝
+突。內戰爆發頻繁，帶來巨大的人員傷亡及
+物質損害，成為嚴重的國際安全問題，引起
+國際社會的關切，根據國際人道法原則和規
+則解決內戰中的問題是國際人道法發展的必
+然趨勢和內在需要。
+本文旨在探討國際人道法適用於內戰之
+發展，除緒言與結論外，分別論述內戰、國
+際人道法。1949 年《日內瓦公約》共同第三
+條，1977 年《日內瓦公約第二附加議定
+書》，國際人道法在維持國家和平軍事行動
+中之適用，結論揭示國際人道法具有普世價
+值，適用於國際及國內武裝衝突的普遍化。
+貳、內 戰
+一、內戰或非國際性武裝衝突是一國主
+權範圍內之事
+一國的內戰（Civil Strife）1 稱非國際性
+武裝衝突（Non-international Armed Conflict）
+或國內武裝衝突（Internal Armed Conflict），
+是一個國主權範圍之內的事情。2以往傳統國
+際法面對國內武裝衝突無相關法令規範可資
+遵循，惟國內武裝衝突進行的軍事行動，所
+造成之人身和財產損害，與國際性武裝衝突
+所造成之損害並無明顯差異；且因缺乏國際
+人道法規之限制，內戰造成的損害，較國際
+1 It has been difficult to decide whether to use the term in title or to resort to the expression .
+At the Havana Conference of the American republics in 1928, a convention was signed on the Duties and Rights
+of States in the Event of Civil Strife. The phraseology was adopted by the Congress of the United
+States in the law of 1 May 1937. Speaking before the House of Common in July 1937, the First Lord of the Admiralty, Mr. Alfred Duff Cooper, remarked: "By every definition of civil war known to me, what is going on
+in Spain at the present time is ." With this conclusion most international lawyers would not be in entire
+agreement, inasmuch as belligerent rights were not accorded to the Spaniards by any foreign Power. Lacking
+such accordance, a legal state of war was not in existence. Norman J. Padelford,
+(New York: Macmillan Co., 1939), p. viii; J. Rosenau (ed.),
+(1964). Case No. 1. (1948) ., [1980] 1
+Lloyd's Report 406, where Mustill J. The plaintiffs owned property in Beirut which was looted during the disturbances in Lebanon in January 1976.They claimed under insurance policies which exempted, , loss
+caused directly or indirectly by 'civil war'. Thus one question was whether the events in Lebanon in January
+1976 amount to 'civil war' within the terms of the policies. The plaintiffs argued that the term 'civil war' was
+to be given the meaning it has in international law, and that the court should seek a certificate from the British
+Foreign Secretary as to whether the Lebanese conflict amounted to a 'civil war', either as defined in international
+law or generally.
+2 In [1938] 2 K.B. 176, where the British Foreign Office Certificate to the solicitors
+stated: "The Government set up by General Franco in the Basque country...is now recognized by His Majesty's
+Government as the Government which exercises administrative control over a considerable portion of
+the Basque country....It appears that notwithstanding recognition by His Majesty's Government of the facto position of General Franco's Government in this area, His Majesty's Government recognizes the Republican Government of Spain as the government of the whole of Spain including the area in which it recognizes General Franco's Government as exercising de facto administrative control." From 'statement of facts taken from
+趙國材 論國際人道法適用於內戰之發展 法學論著 7
+性武裝衝突更加殘酷，是以國內武裝衝突也
+應遵循一定的作戰守則與國際人道法規。3
+二、國家實踐
+美國內戰（The American Civil War）
+－利伯守則（Lieber Code）4
+利伯守則（Lieber Code），代碼是美國
+一般命令第 100 號（US General Orders No.
+100），頒布的名稱是《美國政府陸軍訓令》
+（Instructions for the Government of Armies of
+the United States in the Field），係在美國南北
+戰爭期間，由法蘭西斯利伯（Francis Lieber）
+於 1863 年所草擬，將當時有關的戰爭法和習
+尚加以編纂，專為提供給美國內戰中的北方
+軍事指揮官運用而制定，適用於作戰部隊，
+雖無條約地位，但具有法規的重要性。1863
+年 4 月生效的《利伯守則》為歐洲國家所接
+受，也被納入 1907 年《海牙公約》（Hague
+Conventions），逐漸演變成為陸戰法規（Hague Convention IV respecting the Laws and
+Customs of War on Land, HC 4）。
+西班牙內戰（The Spanish Civil War,
+1936-39）
+國內武裝衝突也應遵循戰爭法規的觀點，
+最早受到國家廣泛關注的是「西班牙內戰」5
+，
+由當時西班牙總統曼努埃爾．阿扎尼亞（Manuel Azana）領導的共和政府軍與人民陣線左
+翼聯盟對抗弗朗西斯科．佛朗哥將軍（Genthe judgment of Clauson L.J.' [1938] 2 K.B. at p. 181; Clauson L.J. delivering the judgment of the Court of
+Appeal, adopted this circumstantiated document without comment, stating: "The Court is bound to treat the acts
+of the government which His Majesty's Government recognize as the government of the area in question
+as acts which cannot be impugned as the acts of a usurping government, and conversely the Court must be bound
+to treat the acts of a rival government claiming jurisdiction over the same area, even if the latter government be
+recognized by His Majesty's Government as the government of the area as a mere nullity...." At p.195.
+For details, see A.B. Lyons, "The Conclusiveness of the Foreign Office Certificate,"
+, 23 (1946), pp. 241-281; "The Conclusiveness of the 'suggestion' and Certificate of the American State Department," , 24 (1947), pp. 116-147.
+3 Leslie C. Green, , 2nd ed. (Manchester: Manchester University Press,
+2000), pp. 59-61.
+4 The Lieber Code, a code on the law and usages of war intended for military commanders during the American
+Civil War prepared by Francis Lieber in 1863, can be found in US War Department, The War of the Rebellion:
+A Compilation of the Official Records of the Union and Confederate Armies, (Washington, D.C.: Government
+Printing Office, 1899), Series III, Volume 3, pp 148-164.
+5 西班牙內戰是西班牙第二共和國發生在 1936 年 7 月 17 日- 1939 年 4 月 1 日的一場內戰。For details, see
+Arnold D. McNair, "The Law Relating to the Civil War in Spain," , 53 (1937), pp.
+471-500. See also (Leiden: A.W. Sijthoff/ Dobbs Ferry, New
+York: Oceana Publications, 1974), 117-145; Padelford, . note 1,pp. 196-202; Thomas and Thomas, "International Legal Aspects of the Civil War in Spain, 1936-39," R. Falk (ed.),
+(1971), pp. 110-78; Antonio Cassese, "The Spanish Civil War and the Development of Customary Law
+Concerning Internal Armed Conflicts," Antonio Cassese, Dott. A. Giuffre (eds.),
+(Milano, 1975), pp. 287-318; Frits Kalshoven, "Applicability of Customary International Law in Non-International Armed Conflicts," ., pp.
+267-285.
+8 法學論著 軍法專刊第 56 卷第 4 期 趙國材
+eralissimo Francisco Franco）6 領導國民軍和
+長槍黨（Falange）7
+等右翼集團的反政府武裝
+之間的衝突。蘇聯和墨西哥援助反法西斯
+（Fascism）的人民陣線和共和政府，納粹德
+國、義大利王國，葡萄牙支持佛朗哥的國民
+軍，因西班牙意識形態的衝突和軸心集團與
+共產勢力的代理戰爭，西班牙內戰時間之長、
+程度之激烈、給平民傷害之慘痛，都達到相
+當於國際性武裝衝突的程度。
+法國援助共和政府。西班牙內戰爆發後，
+法國總理萊昂·布魯姆於 1936 年 7 月 20 日召
+開會議，做出援助西班牙共和政府的決定。
+由於法國右翼人士的阻礙，直到 8 月 2 日才
+開始輸送軍援的飛機。當時工黨（Labour Party）和自由黨（Liberal Party）則強烈支持共
+和政府。英國保守黨（Conservative Party）首
+相張伯倫因國內反戰聲浪和擔心蘇聯共產主
+義的擴張威脅超過德義法西斯主義，不援助
+西班牙內戰中的交戰任何一方。工黨和自由
+黨則強烈支持西班牙共和政府。英國對法國
+表示，若法國援助西班牙政府，當納粹德國
+與法國交戰時，英國將不提供任何協助。法
+國也因而終止對共和政府的一切支援，並在
+同年 8 月擬定「不干涉協議」。8
+英國首相張伯倫對西班牙內戰發表的三
+點聲明。英國對西班牙內戰發表的三點聲明，
+說明國際人道法或國際法規則應該如何適於
+用內戰，至少應該如同適用於海戰或陸戰一
+樣也適用於空戰：第一點、轟炸平民或對平
+民人口故意攻擊，無疑是違反國際法的；第
+二點、從空中進行攻擊時，攻擊目標必須是
+合法的軍事目標，並且必須識別民用物體；
+第三點、攻擊合法軍事目標時，應盡量避免
+轟炸周圍的平民人口。9
+1936 年 8 月 7 日，美國助理國務卿通知
+所有在西班牙的美國領事代表，基於不干涉
+他國內政政策的通例，不論在平時或內戰，
+美國政府對西班牙發生的任何不幸情勢都將
+6 法蘭西斯科．佛朗哥（Francisco Franco，1892 年 12 月 4 日－ 1975 年 11 月 20 日），西班牙政治家，
+軍事家，23 歲擢升為少校，30 歲升為中校，32 歲為升為將軍，法西斯主義獨裁者，西班牙大元帥，
+西班牙長槍党黨魁。
+7 長槍黨（Falange），是由米格爾·普里莫·德·里韋拉的長子-荷西·安東尼奧·普里莫·德里維拉（Jose Antonio
+Primo de Rivera）於 1933 年所創立的右翼組織，類似義大利王國和納粹德國的法西斯政黨，長槍黨主
+張全體主義、民族主義和武裝叛變，並與其他右翼勢力前往德義兩國，獲得支持並取得大量武器。
+8 「不干涉協議」，除瑞士和葡萄牙外，德國、義大利、蘇聯與其他 23 個國家均簽署同意。Declarations
+by the European Governments Constituting the Agreement Regarding Non-Intervention in Spain: Declaration by
+the French Government, 15 August 1936; Declaration by the United Kingdom, 15 August 1936; Declaration by
+the German Government, 17/24 August 1936; Declaration by the Italian Government, 21 August 1936; and Declaration by the U.S.S.R. Government, 23 August 1936.
+9 United Kingdom: Warning Issued by the Foreign Office of Enforcement of the Foreign Enlistment Act of 1870,
+10 January 1937; Statement of Secretary Eden in the House of Commons, 10 March 1937; Declaration to be
+signed by Applicants for Special Visa to Spain, London , 7 April 1937; Arms Export Prohibition Order,
+19 May 1931; Merchant Shipping (Carriage of Munitions to Spain) Act, 3 December 1936; and Arms Export
+Prohibition Order, 8 June 1937.The Spanish Civil War has not confined a limited hostilities to its national territory. Great Britain and France refused to grant belligerent rights while involved in an effort to restrict the Nationalists beyond what traditional international law required. D.P. O'Connell,
+(Manchester University Press, 1975), p.124.
+趙國材 論國際人道法適用於內戰之發展 法學論著 9
+恪守原則，自我節制而不予干涉。 10
+有關國內武裝衝突的國際法規則在國際
+習慣法和條約法方面，相繼出現並相互支持
+和補充，西班牙內戰中，將一些戰爭法原則
+擴大施用於國內武裝衝突，即為明證。
+參、國際人道法
+一、國際人道法之發軔
+《國際人道法》是由國際紅十字會所推
+動，是以 1864 年《日內瓦公約》（Convention for the Amelioration of the Condition of the
+Wounded in Armies in the Field）11、1868 年
+《聖彼得堡宣 言》（St. Petersburg Declaration）12 為發軔，透過 1949 年《日內瓦四公
+約》13 及其 1977 年日內瓦兩個附加議定書 14
+所組成，其中包括 1907 年《海牙十三個公
+約》15在內的幾十項不斷修訂增刪的公約16、
+10 , August 23, 1936. The Non-Intervention policy of the United States was one of support of
+Britain and France and of their policies towards Spain, albeit by separate and parallel rather than by collective
+action. Cf. James W. Garner, "Spanish Civil War - Neutrality Policy of the United States,"
+, 18 (1937), pp. 197-198; 'The United States "Neutrality" Law of 1937,'
+, 19 (1938), pp. 44-66; Padeloford, . note 1, pp. 174-188. Non-intervention often described as a fundamental principle of international law, which is enshrined as the domestic jurisdiction reservation in Article 2(7) of the UN Charter.
+11 Now it is replaced by the First Geneva Convention of 1949.
+12 ! 868 St Petersburg Declaration Renouncing the Use, in Time of War, of Explosive Projectiles Under 400 grammes Weight. Cf. 1856 Paris Declaration respecting Maritime Law; 1899 Hague Declaration 2 Concerning Asphyxiating Gases; 1899 Hague Declaration 3concerning Expanding Bullets (DumDum Bullets).
+13 Geneva Four Conventions of 1949, viz.: I Convention for the Amelioration of the Condition of the Wounded
+and Sick in Armed Forces in the Field: II Convention for the Amelioration of the Condition of Wounded, Sick
+and Shipwrecked Members of Armed Forces at Sea; III Convention relative to the Treatment of Prisoners of
+War; IV Convention relative to the Protection of Civilian Persons in Time of War.
+14 Geneva Two Protocols, viz: 1977 Geneva Protocol 1 Additional to the Geneva Conventions of 12 August 1949,
+and Relating to the Protection of Victims of International Armed Conflicts; 1977 Geneva Protocol 2 Additional
+to the Geneva Conventions of 12 August 1949, and Relating to the Protection of Victims of Non-International
+Armed Conflicts.
+15 The Geneva Four Conventions shall apply to all cases of declared war or of any other armed conflict which may
+arise between two or more of the High Contracting Parties, even if the state of war is not recognized by one of
+them.18 October 1907: Hague Convention (1)for the Pacific Settlement of international Disputes (HC 1); Hague
+Convention (2) respecting the Limitation of the Employment of Force for the Recovery of Contract Debts; Hague
+Convention (3) relative to the Opening of Hostilities (HC 3); Hague Convention (4) respecting the Laws and
+Customs of War on Land (HC 4): Hague Convention (5) respecting the Rights and Duties of Neutral Powers
+and Persons in Case of War on Land (HC 5); Hague Convention (6) relating to the Status of Merchant Ships at
+the Outbreak of Hostilities (HC 6); Hague Convention (7) relating to the Convention of Merchant Ships into
+War-Ships (HC 7); Hague Convention (8) relative to the Laying of Automatic Submarine Contact Mines (HC
+8); Hague Convention (9) concerning Bombardment by Naval Forces in Time of War (HC 9); Hague Convention
+(10) for the Adaptation to Naval War of the Principles of the Geneva Convention (now replaced by the Second
+Geneva Convention of 1949); Hague Convention (11) relative to Certain Restrictions with regard to Exercise of
+10 法學論著 軍法專刊第 56 卷第 4 期 趙國材
+議定書與慣例法所累積而成的法律系統。
+國際人道法是指國際紅十字會推動的以
+日內瓦公約體系為主要內容的原則和規則，
+也涵蓋海牙體系和日內瓦體系兩者的內容。17
+鑒於第二次世界大戰後的國際性武裝衝突中，
+大多數都沒有被宣布或被認為是法律上的戰
+爭狀態，國際實踐中已將許多的傳統戰爭法
+規和規則選擇不適用或適用於這種非戰爭的
+武裝衝突中。
+傳統戰爭法的第一部分內容，即關於
+宣戰、媾和、中立等規則和制度，一
+般不適用。
+傳統戰爭法的第二部份內容，對作戰
+手段的限制以及對人員的保護規則，
+一般被適用，有些內容甚至被擴大適
+用於非國際性武裝衝突中。
+《國際人道法》是基於人道理由，尋求限
+制武裝衝突所帶來後果的規則，可規範到「國
+際性武裝衝突」或「國內武裝衝突」即是內
+戰的國際法規總稱。法律意旨在於限制戰爭
+所用的方法及手段，並於和平及戰爭時期，
+保護沒有參與或已退出敵隊戰鬥，戰鬥能力
+的人員或建築物，包含平民、受傷或生病的
+士兵、戰俘、醫務人員、人道工作者、記者、
+宗教人士、醫院及救護車、文化及宗教場所、
+水壩及核子設施等人士或物件提供妥善的保
+護。解決因國際性或非國際性武裝衝突，所
+引發的人道問題。根據國際習慣法的原則，
+無論是否簽署日內瓦公約、或是國與國的戰
+爭或內戰，都適用國際人道法 18。
+二、《國際人道法》之幾項基本原則
+《國際人道法》的基本原則如下：
+人道原則（Principle of Humanitarian）19：
+the Right of Capture in Naval War (HC 11); Hague Convention (12) relative to the Creation of an International
+Prize Court (not entered into force); Hague Convention (13) Concerning the Rights and Duties of Neutral Powers
+in Naval War (HC 13).
+16 These include, , the 1954 Convention for the Protection of Cultural Property in the Event of Armed
+Conflict, plus its two protocols, the 1972 Biological Weapons Convention, the 1980 Conventional Weapons
+Convention and its five protocols, the 1993 Chemical Weapons Convention, and the 1997 Ottawa Convention
+on anti-personnel mines.
+17 朱文奇，〈論日內瓦公約體系 〉《中國國際法年刊》，1992，頁 15-45。
+18 International humanitarian law, applies with equal force to all the parties in an armed conflict irrespective of
+which party was responsible for starting that conflict, is applicable to the conduct to hostilities once a State has
+resorted to the use of force (the ), that law cannot be properly understood without some examination
+of the separate body of rules which determine when resort to force is permissible (the ). The modern
+ius ad bellum is based upon Article 2 (4) and Chapter 7 of the UN Charter where the use of force in international
+relations is prohibited. Principles of international law governing civil wars involve looking at the general legal
+principles governing the law prohibiting intervention in internal armed conflicts (the ) and the law
+regulating and mitigating the conduct of hostilities in such conflicts (the ). Dieter Fleck (ed.),
+(New York: Oxford University Press, 1995), p. 1.For details, see Hilaire McCoubrey, (Aldershot,
+Hants: Dartmouth Publishing Co., 1990), pp. 171-186; Christopher Greenwood, “Historical Development and
+Legal Basis,” Dieter Fleck (ed.), (New York: Oxford
+University Press, 1995), pp. 1-38.
+趙國材 論國際人道法適用於內戰之發展 法學論著 11
+盡量減低戰爭殘酷性，對於敵人也不應
+施加與作戰目的不成比例的傷害，不應施加
+不必要的傷害。不應因國籍、種族、宗教信
+仰、階級或政治見解不同而對戰爭受難者有
+所區別。平民（非戰鬥員）享有普遍保護，
+免受敵對行為的影響；他們必須得到尊重、
+保護和人道待遇。
+中立原則（Principle of Neutrality）
+國際人道法中「受保護人員」必須在武
+裝衝突的任何時候，都嚴守中立，即不參予
+實際敵對行為。倘若放棄中立，則不再受到
+保護。任何團體或個人，只要繼續從事「有
+害於」敵方之行為，則不能主張受到保護。
+中立義務中包含，「不作為義務」不得直接
+或間接向交戰國提供軍事支持；「防止義務」
+應防止交戰國在其領土管轄範圍內從事戰爭；
+「容忍義務」需容忍交戰國根據戰爭法對其
+國家、人民採取有關措施。
+防止原則（Principle of Prevention）
+在戰爭與武裝衝突中，只需降伏對方，
+應防止增加戰鬥員不必要之痛苦。
+區分原則（Principle of Distinction）20
+戰時必須對不同性質的目標和人員進行
+區分，並給予不同對待。區分包括：平民與
+軍事人員；武裝部隊中的戰鬥員（Combatant） 和非戰鬥員（Non-Combatant）；有戰
+鬥能力的戰鬥員與喪失戰鬥能力的戰爭受難
+者；軍用物體和非軍用物體；軍事目標和民
+用目標。得攻擊戰鬥員和軍事目標，但所造
+成的傷害和損害應儘可能的予以限制。任何
+一方的軍事行動只得以軍事目標為物件，不
+針對平民使用武力。按照 1977 年日內瓦公約
+第一附加議定書第 51 條第 3 款規定，平民非
+戰鬥員直接參與敵對行動就將喪失其受保護
+的平民地位。故民用空間設施只要被用於軍
+事用途，將自動喪失受保護的免受攻擊地位。
+比例原則（Principle of Proportionality）21
+要求作戰方法和手段的使用應與預期的、
+具體的和直接的軍事利益相稱（或稱成比
+例），而禁止過分損害的攻擊行為以及引起
+過分傷害和不必要痛苦性質的作戰手段和方
+法。當保護不可能是絕對的時候，應秉承善
+意，對人道原則和軍事必要原則要求互相制
+約。
+軍事必要原則（Principle of Military
+Necessity）22
+戰爭法規制定，為考量「軍事必要」為
+前提，對部分「軍事情況許可時」之條件，
+應從嚴解釋，並將其限訂在具有明文規定情
+況和範圍內，不得解除當事國之義務。因為
+戰爭法規的制定本身是以考慮了軍事必要為
+19 Constraints upon the conduct of hostilities, such as human shields, ethnic cleansing, feigned surrenders, collateral damage and proportionality, belligerent reprisals and weapons of mass destruction. For details, see J. Pictet,
+(The Netherlands: Martinus Nijhoff, 1985).
+20 I.e. lawful and unlawful combatants, the distinction between combatants and civilians, legitimate military objectives, and the protection of the environment and cultural property etc.
+21 There has been considerable debate in the international community as to the legality of the forceful actions in
+Kosovo in 1999, Afghanistan in 2002 and Iraq in 2003 under the UN Charter. There has been consensus, however, that the use of force in all these situations had to be both proportional and necessity. For details, see Judith
+Gardam, (Cambridge: Cambridge University Press,
+2004), pp. 85-137.
+22 Ibid., pp. 138- 222.
+12 法學論著 軍法專刊第 56 卷第 4 期 趙國材
+前提的，對一些規則中「軍事情況許可時」
+的條件，應從嚴解釋，並將其限定在具有明
+文規定情況和範圍內。
+限制原則（Principle of Limitation）
+在戰爭與武裝衝突法尚無具體規則的情
+況下，有關衝突各方也不得為所欲為。根據
+戰爭法中的「馬爾頓條款」（Martens Claus
+e）23，在國際協定未規定的情況下，作戰方
+法和手段的使用應與預期的、具體的和直接
+軍事利益成比例，同時限制某些手段和方法。
+平民和戰鬥員仍然受既定習慣、人道原則和
+公眾良心要求的國際法原則的保護，不得解
+除當事國之義務。
+《國際人道法》的基本原則，適用於任
+何型式、團體的武裝衝突，包含內戰或國內
+武裝衝突，任何交戰的雙方均必須遵守，如
+有不遵守的一方，即需要負起違反武裝衝突
+法的責任，甚至被移送戰犯法庭處理。
+喪失戰鬥能力的人，以退出戰鬥的人
+及未直接參與戰鬥的人，其生命及身心
+健全，均有權受到尊重。在任何情況
+下，他們都應象徵人道（humanity）、
+不偏袒（impartiality）、中立（neutrality）與獨立（independence）。24
+禁止殺害或傷害投降或已退出戰鬥的
+敵人。
+衝突各方應將集合在其控制下的傷者
+和病者，加以照顧。保護對象尚應涵
+蓋 醫護人員、醫療設施、醫務運輸、
+及 醫 療 設 備 等。「紅十字」（Read
+Cross）或「紅新月」（Red Crescent）
+的標誌，即為此種保護的符號，必須
+予以尊重。
+在敵對一方控制下的被俘戰鬥人員和
+平民，其生命、尊嚴、個人權利與信
+念，均應受到尊重。他們應受到保
+護，免受各種暴力與報復行為的傷
+害。他們應有權與家人通信，以及接
+受救援。
+每個人都有權享受基本的司法保障。
+任何人都不應為他沒有做的事情負
+責，也不應遭受肉體上或精神上的酷
+刑、體罰或殘酷、侮辱性的待遇。
+衝突各方及其武裝部隊成員選擇戰爭
+的方法與手段均受到其限制。使用具
+有造成不必要損失或過度傷害性質的
+武器或戰爭方法，均受禁止。
+衝突各方在任何時候均應將平民群眾
+與戰鬥員加以區分，以避免平民群眾
+或平民財產受到傷害。不論是平民群
+眾或平民各人們，都不應成為攻擊的
+目標。攻擊應只針對軍事目標。
+三、內戰亦適用國際人道法規則
+規範武裝衝突的習慣法，同等適用於國
+際性與國內武裝衝突。就適用於敵對行為的
+法律而言，各國在實踐中認可同樣的規則，
+既適用於國際性武裝衝突，也適用於國內武
+23 Frederic de Martens, 1845-1909, Legal advisor to Russian Department of Foreign Affairs 1896-1909. Principal
+works include (1873);
+(15 Vols. 1874-1909); (1883-87);
+(1901); (1907).
+24 中國對平民生命、財產安全在武裝衝突受影響和威脅深表關切，人道救援工作應堅持公正、中立、客
+觀和獨立原則，尊重當事國主權和領土完整，避免介入當地政治紛爭，或影響和平進程。〈第 63 屆聯
+合國大會中國之立場文件〉(2008 年 9 月 16 日)，《中國國際法年刊》，2008 年，頁 475，477。
+趙國材 論國際人道法適用於內戰之發展 法學論著 13
+裝衝突。
+內戰（Civil Strife）25 本屬於一國內部事
+務，內戰適用作戰規則的要求比國際性武裝
+衝突晚，內戰適用國際人道法規則受到重視
+的程度也遠不如國際性武裝衝突。國家避免
+干涉他國內政，許多國際性武裝衝突中適用
+的作戰規則及國際人道法規則往往要受到內
+戰國國內法的限制，否則會有干涉內政之嫌
+疑。
+國際人道法規則適用於內戰，內戰亦適
+用國際人道法規則，但內戰適用「有關國際
+人道法規則」有別於「國際性武裝衝突」；
+內戰中適用作戰規則與國際人道法規的標準、
+範圍及具體措施上，與國際性武裝衝突相比，
+顯得十分有限，內容也很不完善；內戰有其
+特殊性，內戰對戰爭受難者的保護體制只涉
+及到某些特別重大問題的解決，將對國際人
+道法乃至國際和平與安全產生重大影響。
+肆、1949 年《日內瓦公約》共同第三條
+一、1949 年《日內瓦公約》共同第三條
+之誕生
+戰爭係兩個或兩個以上國家，在戰場上
+大規模的武裝對抗，交戰國在武裝衝突期間
+平等施用所有戰爭法規。究竟中央政府與叛
+亂團體之間的武裝衝突是否全部或部分適用
+國際人道法？多年來各國對此均持保留態度，
+直至 1949 年《日內瓦公約》共同第三條的確
+立。在《日內瓦公約》的制定過程中，各國
+已經預見國內武裝衝突大量發生的現實，故
+對國內武裝衝突也應該有相應的規定。26 於
+是在《日內瓦四公約》27 共同第三條中規定
+了專門處理非國際性武裝衝突的條款。
+二、《日內瓦公約》共同第三條之草本
+《日內瓦公約》共同第三條最初的草本，
+是一種完全理想化的觀念的反映。最初的草
+本規定：「於本公約一個或多個締約國境內
+發生非國際性武裝衝突之情形，衝突各方有
+義務執行本公約之規定，上述義務之履行以
+敵對方執行本公約之規定為限。不論衝突各
+方的法律地位如何，本公約的規定均應該執
+行，且本公約之執行不損及衝突各方的法律
+地位。」這一規定顯然是出於人道的考慮，
+希望對非國際性武裝衝突中的受害者提供盡
+可能完備的保護。
+三、叛亂團體與交戰團體之承認
+傳統國際法對非國際性武裝衝突中反政
+25 Civil strife is protracted internal violence aimed at securing control of the political and legal apparatus of a State.
+Because it is protracted, it is possible to distinguish a civil war from a coup d’etat. Because it is internal it is
+possible to distinguish a civil war from external intervention. Because it involves protracted violence it is possible to distinguish civil war from a communal conflict. Frits Kalshoven, “Applicability of Customary International Law in Non-International Armed Conflicts,” Current Problems of International Law 1975, pp. 267-285.
+26 Joyce A.C. Gutteridge, "The Geneva Conventions of 1949," , 26 (1949),
+pp. 294-326.
+27 Geneva Four Conventions of 1949, viz.: I Convention for the Amelioration of the Condition of the Wounded
+and Sick in Armed Forces in the Field: II Convention for the Amelioration of the Condition of Wounded, Sick
+and Shipwrecked Members of Armed Forces at Sea; III Convention relative to the Treatment of Prisoners of
+War; IV Convention relative to the Protection of Civilian Persons in Time of War.
+14 法學論著 軍法專刊第 56 卷第 4 期 趙國材
+府一方有叛亂團體（Insurgent）28或交戰團體
+（Belligerent）29 的區分，外國對叛亂團體或
+交戰團體的承認，在一定程度上，是對反政
+府武裝地位的一種確認，中央政府擔心反政
+府武裝藉此尋求國際奧援，而使國內武裝衝
+突國際化。30
+《日內瓦四公約》共同第三條的最初草
+本規定，執行公約不影響國內武裝衝突中各
+方的法律地位，惟國家對將國際性武裝衝突
+規則適用於非國際性武裝衝突中，仍有疑慮，
+且會帶來很多問題。一些國家不願意見到國
+內武裝衝突完全適用《日內瓦公約》條款。
+例如，國際性武裝衝突中，隸屬於衝突一方
+而落入衝突另一方掌握之中的戰鬥員（Combatant），依《日內瓦第三公約》規定，應該
+視為戰俘（Prisoner of War, POW），衝突一
+方不得因其關押的戰俘曾經參與武裝衝突而
+追究刑事責任。但在非國際性武裝衝突，反
+政府武裝一方被中央政府視為叛亂者，粄平
+叛亂之後，中央政府往往要追究叛亂者的刑
+事責任。
+共同第三條的最終文本對衝突方的義務
+已經大幅縮小，且其中亦包含不影響衝突各
+方地位之規定。
+四、《日內瓦公約》共同第三條之涵義
+28 The insurgents are in control of a portion of the State's territory and population, have a political organization able to exert such control and maintain some degree of popular support, and conduct themselves according to the laws of armed conflict. The recognition of a status of insurgency by third State means that the rebellion
+has not yet gained control over a significant portion of the territory of the parent State. Band E. O'Neill, "Insurgency: Framework for Analysis", Band E. O'Neill, William R. Heaton, and Donald J. Alberts (eds.),
+(Boulder, Colo.: Westview Press, 1988), pp.1-44.
+29 Belligerency exists when portion of the State’s territory is under the control of an insurgent community seeking
+to establish a separate State. Recognition of belligerency elevates an insurrectionary movement to the status of
+a quasi-international person, granting it the rights and imposing upon it the duties of the laws of armed conflict.
+Evidence of a state of belligerency occurs when the State’s central government blockades the rebelling portion
+of its territory and invokes rights of visit and search upon vessels. Two conditions should exist before an outside
+State extends belligerent recognition: (1) the insurgency should have progressed to a state of general war; and
+(2) the effects of that internal strife have spilled beyond the boundaries of the State and affected other State. J.
+W. Garner, "Recognition of Belligerency," , 32 (1938), p.106; F. Kalshoven, "Belligerent Reprisals Revisited," , 21(1990), pp. 43-80.
+30 The internment of a belligerent's own national during wartime is not covered by international humanitarian law.
+The international provisions concerning the protection of human rights, however, are applicable. In
+, [1980] 1 Lloyd's Rep. 406, Mustill J. The plaintiffs owned property in Beirut which was looted during the disturbances in Lebanon in January 1976. They
+claimed under insurance policies which exempted, , loss causes directly or indirectly by 'civil war'.
+Thus one question was whether the Lebanese crisis in January 1976 amounted to 'civil war' within the terms of
+the policies. The plaintiffs argued that the term 'civil wear' was to be given the meaning it has in international
+law, and that the court should seek a certificate from the Foreign Secretary as to whether the Lebanese conflict
+amounted to a 'civil war', either as defined in international law or generally. Mustill J. held that the Lebanese
+circumstances did not disclose a 'civil war', but that the plaintiffs could not show their loss had not result from
+'usurped power' or 'civil commotion' within the meaning of a further exemption in the policies.
+趙國材 論國際人道法適用於內戰之發展 法學論著 15
+非國際性武裝衝突人道法規範大多移植
+日內瓦公約的有相關條款，實際上是人道考
+慮和國家主權之間妥協之結果。這種妥協的
+結果最終表現為 1949 年《日內瓦四公約》共
+同第三條將適用於非國際性武裝衝突的規則，
+規定如下：
+「在一締約國之領土內發生非國際性的
+武裝衝突之場合，衝突之各方最低限度應遵
+守下列規定：
+不實際參加戰鬥之人員，包括放下武
+器之武裝部隊人員及因病、傷、拘留
+或其他原因而喪失戰鬥力之人員在
+內，在一切情況下應予以人道待遇，
+不得基於種族、膚色、宗教或信仰、
+性別、出身或財力或其他類似標準而
+有所歧視。
+故對上述人員，不論何時何地，不得
+有下列行為：
+（甲）對生命與人身施以暴力，特別如
+各種謀殺、殘傷肢體、虐待及酷
+刑；
+（乙）作為人質；
+（丙）損害個人尊嚴，特別如侮辱與降
+低身分的待遇；
+（丁）未經具有文明人類所認為必須之
+司法保障的正規組織之法庭之宣
+判，而遽行判罪及執行死刑。
+傷者、病者應予收容與照顧。公正的
+人道主義團體，如紅十字國際委員
+會，得向衝突各方提供服務。衝突之
+各方應進而努力，以特別協定之方
+式，使本公約之其他規定得全部或部
+份發生效力。上述規定之適用不影響
+衝突各方之法律地位。」31
+對於《日內瓦公約》共同第三條內容的
+解釋如下：
+第一、必須遵守的最低限度義務。共同
+第三條規定的義務是衝突各方都
+必須遵守的最低限度義務；
+第二、受保護人範圍的界限。根據共同
+第三條的規定，非國際性武裝衝
+突中的人道 待 遇（humanitarian
+treatment）並 不 是 授 予 所有人
+的，只 有「不實 際 參 加 戰 鬥」
+者，才得受有此等待遇。
+第三、不得違反禁止之行為。共同第三
+條包含了一否定清單，衝突任何
+方或個人都不得違反列於該清單
+之上的行為，否則將會引起嚴重
+的法律後果。
+第四、特別協議。共同第三條為國家以
+及其他衝突方保留了將《日內瓦
+公約》其他規定完全或部分適用
+於內戰的權利，惟衝突各方須以
+特別協議形式就適用的規則達成
+一致。但不論對國家而言，或是
+對其他反政府武裝而言，都非必
+須的義務，移植適用《日內瓦公
+約》的其他全部或部分規定，對
+衝突雙方皆有好處，在此情況
+31 Article 3 of the Geneva Convention is dealing with conflicts not of an international character which occur within
+the territory of a contracting nation. This article specifies the minimum standards that should regulate civil wars
+or rebellions which are essentially of a domestic character. It requires that persons not taking part in the hostilities be treated humanely including those taken as prisoners of war. , 91st Congress, Second Session (American Enterprise Institute for Public Policy Research, December 28, 1970), Analysis
+No. 26, pp. 5-14.
+16 法學論著 軍法專刊第 56 卷第 4 期 趙國材
+下，直接適用公約其他規定是最
+為有效的方式。
+五、《日內瓦公約》共同第三條之法律
+地位
+【案例】在尼加拉瓜境內針對該國的軍事與
+準軍事行動案（尼加拉瓜訴美國）
+（
+）（Nicaragua v. USA）Case 32
+由於《日內瓦公約》共同第三條規定的
+行為規則是武裝衝突中各方都應該遵守最低
+程度的要求，故大抵反映出習慣法的要求，
+共同第三條可說是以條約的形式反映國際習
+慣法下的行為規範。這點可以參考國際法院
+在尼加拉瓜境內針對該國的軍事與準軍事行
+動案中對共同第三條的性質的評價 33：
+在該案件中，美國支持尼加拉瓜的反政
+32 In (Jurisdiction) (Nicaragua v. USA) [1984] ICJ
+Report 169; (Merits) (Nicaragua v. USA) [1986]
+ICJ Report 14, where the ICJ ruled in favor of Nicaragua and against the United States and awarded reparations
+to Nicaragua. The Court held that the U.S. had violated international law by supporting Contra guerrillas in their
+rebellion against the Nicaraguan government and by mining Nicaragua's harbors. The United States refused to
+participate in the proceedings after the Court rejected its argument that the ICJ lacked jurisdiction to hear the
+case. The Court found in its verdict that the United States was "in breach of its obligations under customary international law not to use force against another State", "not to intervene in its affairs", "not to violate its sovereignty", "not to interrupt peaceful maritime commerce", and "in breach of its obligations under Article XIX of
+the Treaty of Friendship, Commerce and Navigation between the Parties signed at Managua on 21 January
+1956." The Court had 16 final decisions upon which it voted. In 9 Statement the Court stated that the U.S. encouraged human rights violations by the Contras by the manual entitled Psychological Operations in Guerrilla
+Warfare. However, this did not make such acts attributable to the U.S. The U.S. later blocked enforcement of
+the judgment by the United Nations Security Council and thereby prevented Nicaragua from obtaining any actual
+compensation. After five vetoes in the Security Council between 1982 and 1985 of resolutions concerning the
+situation in Nicaragua, the United States made one final veto on 28 October 1986 (France, Thailand, and United
+Kingdom abstaining) of a resolution calling for full and immediate compliance with the Judgment. Nicaragua
+brought the matter to the U.N. Security Council, where the United States vetoed a resolution (11 to 1, 3 abstentions) calling on all states to observe international law. Nicaragua also turned to the General Assembly, which
+passed a resolution 94 to 3 calling for compliance with the World Court ruling. Two states, Israel and El Salvador, joined the United States in opposition. At that time, El Salvador was receiving substantial funding and military advisement from the U.S., which was aiming to crush a Sandinista-like revolutionary movement by the
+FMLN. At the same session, Nicaragua called upon the U.N. to send an independent fact-finding mission to the
+border to secure international monitoring of the borders after a conflict there; the proposal was rejected by Honduras with U.S. backing. A year later, on 12 November 1987, the General Assembly again called for "full and
+immediate compliance" with the World Court decision. This time only Israel joined the United States in opposing
+adherence to the ruling. The Nicaraguan government finally withdrew the complaint from the Court in September 1991, following a repeal of the law requiring the country to seek compensation, thus settling the matter.Common Article 3 clearly imposes several important prohibitions on the behaviour of parties to non-international armed conflicts, norms that were recognised as customary in the Nicaraguan case.
+33 Common Article 3 clearly imposes several important prohibitions on the behaviour of parties to non-international
+趙國材 論國際人道法適用於內戰之發展 法學論著 17
+府武裝，並在尼加拉瓜的主要港口以及港口
+附近布下水雷。但美國並未就其在尼加拉瓜
+港口或港口附近布雷的情況發出任何警告或
+通知。國際法院認為有必要對美國這種行為
+是否違反國際人道法作出判斷。國際法院判
+決認為：「1949 年《日內瓦公約》共同第三
+條，對非國際性武裝衝突應該適用的確定規
+則。毫無疑問，在國際性武裝衝突中，更為
+精細的規則將適用於國際性武裝衝突，這些
+規則同樣也構成最低程度的標準；本法院在
+1940 年科孚海峽案（ Case）34
+中所指出的共同第三條的規則反映 「對人道
+的最基本的考慮」。共同第三條的規則適用
+於尼加拉瓜案的爭議，從而無須就美國提出
+的關於多邊條約保留可能對相關條約產生的
+影響作出決定。
+在尼加拉瓜政府和反政府武裝之間的武
+裝衝突是非國際性武裝衝，故對反政府武裝
+對尼加拉瓜政府的舉動應該適用非國際性武
+裝衝突的規則；美國在尼加拉瓜境內及針對
+尼加拉瓜政府採取行動則應該由適用於國際
+性武裝衝突的規則來調整。由於適用於國際
+性武裝衝突和非國際性武裝衝突的最低標準
+規則（minimum rules）是相同的，故無必要
+考察對這些行動適用何種類型的武裝衝突的
+規則。國際法院認為，就《日內瓦公約》共
+同第一條規定，在任何情況下，尊重公約，
+且對保證尊重公約之義務而言，美國應承擔
+責任，緣此一義務不僅源自公約，且源自國
+際人道法的一般原則，故《日內瓦公約》僅
+係一般原則作出特定之表達。
+國際法院分析《日內瓦公約》共同第三
+條對國際性武裝衝突和非國際性武裝衝突兩
+種類型均適用，得採用類比的方法，將兩種
+類型的武裝衝突作一個類比，最終得出的結
+論是：共同第三條所創設的最低標準規則的
+適用與武裝衝突的性質無關。國際性武裝衝
+突與非國際性武裝衝突除了捲入衝突的各方
+不同之外，沒有任何不相同的地方。從效果
+來看，在國際性武裝衝突中，攻擊平民行為
+無疑屬於戰爭罪的範疇；而在非國際性武裝
+衝突中，衝突各方同樣可能攻擊平民，而且
+這種攻擊除了其所處的武裝衝突性質不同之
+外，與國際性武裝衝突中攻擊平民的行為並
+armed conflicts, norms that were recognised as customary in the Nicaraguan case.
+34 Case (United Kingdom v. Albania) [1948] ICJ Report 15; [1949] ICJ Report 4. The Corfu Channel Incident refers to three separate events involving British Royal Navy ships in the Corfu Channel which its
+early episode took place in 1946. During the first incident, Royal Navy ships, HMS and HMS
+cross the Corfu Channel came under fire from Albanian fortifications. The second incident involved Royal Navy
+ships striking mines and the third incident occurred when the Royal Navy conducted mine-clearing operations
+in the Corfu Channel of the Albanian territorial waters. Albania complained about them to the United Nations.
+This series of incidents led to the , where the United Kingdom brought a case against the
+People's Republic of Albania to the International Court of Justice. Because of the incidents, Britain, in 1946,
+broke off talks with Albania aimed at establishing diplomatic relations between the two countries. Diplomatic
+relations between the United Kingdom and the People's Socialist Republic of Albania were restored on 29 May
+1991. On 8 May 1992, Britain and Albania announced that they had come to an agreement over the
+case, jointly announcing that "Both sides expressed their regret at the Corfu Channel Incident of 22 October
+1946". Only in 1996 following lengthy negotiations was the gold finally returned to Albania after it agreed to
+pay US $2,000,000 in delayed reparations.
+18 法學論著 軍法專刊第 56 卷第 4 期 趙國材
+沒有任何區別，甚至可能比前述行為更殘忍、
+更不人道。故國際人道法上適用於國際性和
+非國際性兩種武裝衝突的類型，其規則和懲
+治力度不同，最根本的是國家要自己掌握處
+罰內部叛亂份子的政治意願，因而造成不同
+的結果。
+自安哥拉獨立時起所發生的敵對行為，
+明顯是「非國際性武裝衝突」，但因第三方
+軍事力量的介入而帶有國際性，故適用安哥
+拉政府軍與安哥拉盟軍間關係的國際人道法
+規則，只得是日內瓦四公約的共同第三條和
+關於內戰的習慣規則。
+伍、1977 年《日內瓦公約第二附加議定
+書》
+一、《日內瓦公約第二附加議定書》適
+用於內戰之人道法規則
+在 1974 年至 1977 年於瑞士日內瓦召開
+的外交大會上制定了 1949 年《日內瓦公約兩
+個附加議定書》。35 其中第二附加議定書在
+若干方面重申，並發展適用於非國際性武裝
+衝突的人道法規則：
+對於在非國際性衝突中未直接參加或
+已停止參加敵對行動人，第二附加議
+定書
+進一步明確規定其應享有的人道待遇
+的具體內容；
+細化非國際性武裝衝突中對傷者、病
+者、遇船難者以及醫療、宗教人員的
+保護規則；
+強化在非國際性武裝衝突中平民的概
+念，以及對平民的保護規則。這個規
+則可看作是共同第三條的一個發展。36
+二、第二附加議定書之內容
+《日內瓦公約》共同第三條只是提供適
+用於非國際性武裝衝突最基本的標準，
+而要完善保護非國際性武裝衝突中的人權及
+限制作戰方法，僅依賴共同第三條有其不足
+之處，表現在以下幾方面：
+共同第三條僅規定保護「不實際參加
+戰鬥的人」，這反映國際人道法的區
+分原則之適用，但忽略國際人道法對
+作戰方式方法的限制， 例如禁止使用
+化 學武器等，這是國際性武裝衝突
+下國際人道法經常關注問題。
+共同第三條沒有涉及非國際性武裝衝
+突中如何保護戰俘的問題，這在國
+際性武裝衝突中是非常重要的。事實
+上，在非國際性武裝衝突中，國家也
+希望己方武裝部隊成員被反政府武裝
+俘擄後得到完善的法律保護。例如，
+在國際性武裝衝突下，衝突一方強迫
+35 In 1977 the Diplomatic Conference on the Re-Affirmation and Development of International Humanitarian Law
+Applicable in Armed Conflicts formally adopted two Protocols additional to the Geneva Conventions of 1949.
+Protocol 1 is concerned with international armed conflicts, Protocol 2 with civil wars and rebellions. They should
+improve the protection of prisoners of war, as well as giving added protection to civilians and the environment
+in wartime. The Conventions and the Additional Protocols provide an internationally-accepted yardstick against
+which to judge behaviour in armed conflict. They form a basis on which the international community can respond
+to cases of inhumanity in war such as the former Yugoslavia, Iraq, like any law, they can never prevent illegal
+behaviour; their existence, however, can and does act as a deterrent to potential transgressors.
+36 Howard S. Levie (ed.),
+(Dordrecht/Boston/Lancaster: Martinus Nijhoff Publishers, 1987); Green, supra. note 3, pp. 61-62.
+趙國材 論國際人道法適用於內戰之發展 法學論著 19
+其控制之下的戰俘進行勞動是被嚴格
+禁止的，違反這一規定即被視為一種
+戰爭罪。而在共同第三條，對於不實
+際參加武裝衝突而落入衝突一方控制
+的人，卻沒有這樣的規定。這實際上
+是保護規則不完善的體現。
+共同第三條除了對「非國際性武裝衝
+突」做出規定之外，沒有作任何其他
+規定，實際上也就是對非國際性武裝
+衝突沒有作出明確界定，畢竟武裝衝
+突和一般的國家內亂、暴動或騷動行
+為有別，共同第三條對「非國際性武
+裝衝突」的判斷，實際上缺乏一客觀
+的操作標準。暴力衝突是否為武裝衝
+突裁量權掌握在國家或國際組織手
+中，因國家為其主權利益考量，而國
+際組織之判斷效率緩慢，國際人道法
+之規則有時無法從一開始就適用於非
+國際性武裝衝突。37
+前南斯拉夫一國，分裂為克羅埃西亞、
+斯洛維尼亞、塞爾維亞、蒙特內哥羅（黑山
+共和國）、波士尼亞、馬其頓、科索沃等七
+國，為處理前南斯拉夫武裝衝突問題，紅十
+字國際委員會協助交戰各方建立起一套適用
+於國內武裝衝突關係的規則體系。南斯拉夫
+自 1979 年接受 1977 年日內瓦兩個議定書的
+拘束，但其分裂後，無法決定究竟由那個新
+獨立國家來繼承前南斯拉夫的條約義務，而
+對這些武裝衝突是「國際性武裝衝突」或是
+「國內武裝衝突」的定性問題，仍存在分
+歧。38 為此，1991 年 11 月 27 日，克羅埃西
+亞和南斯拉夫社會主義聯邦共和國的代表簽
+署一份涉及日內瓦四公約和 1977 年日內瓦第
+一議定書之協定，提到在衝突一方權力之下
+的人員待遇、戰爭手段和方法，及對平民居
+民的保護等相關規定，雖然其中許多條款在
+武裝衝突中都遭踐踏，但各方未曾對其適用
+性提出異議。在敵對的最後階段，國際紅十
+字會認為有必要提醒衝突雙方應遵守的國際
+人道法規則。除援引日內瓦四公約共同第三
+條外，列舉完整的清單，列舉源於 1977 年兩
+個議定書可適用於非國際性武裝衝突的習慣
+37 「前南斯拉夫國際刑事法庭規約」第 1 條規定，前南斯拉夫國際刑事法庭的職權範圍是起訴自 1991 年
+1 月 1 日以來發生在前南斯拉夫境內的嚴重違反國際人道罪行。根據聯合國祕書長對前南斯拉夫國際
+刑事法庭規約的報告，這一日期的選擇是中性的，不帶有任何政治異議。實際上安理會可起訴於 1991
+年 1 月 1 日之前武裝衝突在前南境內存在的嚴重違反國際人道罪行，惟安理會設立前南斯拉夫國際刑
+事法庭僅是起訴該日期以後的罪行。至於該日期以前發生的許多嚴重違反國際人道法罪行則不予考
+慮。Cf. Case ICTY Case No.IT-94-1-A; , ICTY Appeal decision, 2 October 1995.
+38 Was the conflict in Bosnia and Herzegovina a civil war or an inter-State conflict? States and writers were fundamentally divided on this issue. The natural of the conflict in Bosnia and Herzegovina changed over time with
+the dissolution of the formal Yugoslavia. The conflict in Bosnia and Herzegovina cannot be adequately understood in isolation from the conflict in the rest of the former Yugoslavia. But the stark choice between civil war
+and inter-State conflict is one that was put forward forcefully by the parties involved. The government of Bosnia
+and Herzegovina and States sympathetic to it argued that the conflict was an inter-State war and that Yugoslavia
+was the aggressor against Bosnia either directly or through the Bosnian Serbs and the Croatian Serbs. Yugoslavia
+(i.e. Serbia and Montenegro) insisted on the civil nature of the conflict. It would be justified that a civil war with
+outside intervention. Christine Gray, "Bosnia and Herzegovina: Civil War or Inter-State Conflict? Characterization and Consequences", , 67 (1996), pp. 155-197.
+20 法學論著 軍法專刊第 56 卷第 4 期 趙國材
+規則，包括： 不得徵募 15 歲以下兒童參加
+戰鬥 39； 不得攻擊平民和平民財產； 禁
+止不區分的或對平民造成過度損害的攻擊；
+不得破壞維持平民群眾生存所不可缺少的
+供給； 在攻擊和防守時採取預防措施。
+三、第二附加議定書之適用範圍及其與
+《日內瓦公約》共同第三條之關係
+第二附加議定書重申、發展的規則，多
+源自於 1949 年《日內瓦公約》針對國際性武
+裝衝突規定的雛形，對於完善受害者的保護
+規則，無疑具有極大的積極意義。第二附加
+議定書第一條第一款規定：「本議定書發展
+和補充 1949 年 8 月 12 日《日內瓦四公約》
+共同第三條而不改變其現有的適用條件，應
+適用於為 1949 年 8 月 12 日《日內瓦四公約》
+關於保護國際性武裝衝突受難者的附加議定
+書（第一議定書）所未包括，而在締約一方
+領土內發生的該方武裝部隊和在負責統率下
+對該方一部分領土行使控制權，從而使其能
+進行持久而協調的軍事行動並執行本議定書
+的持不同政見的武裝部隊或其他有組織的武
+裝集團之間的一切武裝衝突。」
+從第一條第一款分析，第二附加議定書
+中相對於共同第三條更為完備的規則，其適
+用比共同第三條門檻更高，包括：
+第一、第二附加議定書意義上的非國際
+性武裝衝突必須發生在一國領土
+之內；
+第二、該武裝衝突的雙方必須一方為中
+央政府，另一方是持不同政見的
+武裝部隊或其他有組織武裝集
+團；
+第三、反政府武裝必須已經控制了國家
+的一部分領土；
+第四、反政府武裝必須能夠進行持久且
+協調的軍事行動，並執行本議定
+書的規定。
+綜合以上因素，第二附加議定書意義上
+的非國際性武裝衝突實際上已經被囿於一個
+相當狹小的範圍內。至少有兩個類型的非國
+際性武裝衝突第二附加議定書沒有涵蓋：一
+個國家內部同時有數個反政府武裝，雖然不
+符合第一條第一款的條件，但也達到了武裝
+衝突的層級，例如政府軍和游擊隊之間的衝
+突，游擊隊沒有控制確定的領土，但其間的
+衝突遠超過一般暴動的界限，也屬於武裝衝
+突的範籌，這也是第二附加議定書沒有涵蓋
+的。故第二附加議定書適用範圍的限制，多
+出於國家不願意將完整的人道法規則適用於
+國內武裝衝突。惟第二附加議定書和共同第
+三條相較之下，在適用條件上有很大的進展，
+提出適用該議定書的一個客觀標準，如此一
+來屬於該協定意義上的非國際性武裝衝突，
+可以根據第一條來判斷；只要符合第一條的
+客觀標準，第二附加議定書就得自動適用，
+從而擺脫國家或國際組織的主觀判斷。這一
+點是 1949 年《日內瓦公約》共同第三條不具
+備的。無論如何，共同第三條由於兼具有條
+約法和習慣法的法律性質，在任何情況下都
+應該予以適用。40
+39 《第一附加議定書》第 77 條禁止徵募 15 歲以下兒童入伍；《第二附加議定書》第 4 條第 3 款第 3 項
+也禁止 15 歲以下的兒童直接或間接參與敵對行動。1989 年《兒童權利公約》第 38 條將《第一附加議
+定書》第 77 條的適用範圍擴大到非國際性武裝衝突。2000 年《兒童權利公約關於兒童捲入武裝衝突
+的任擇議定書》，限制兒童餐與敵對行動，普遍加強武裝衝突中對兒童的保護。《國際刑事法院規約》
+第 8 條第 2 款第 7 項禁止徵募 15 歲以下兒童入伍。
+趙國材 論國際人道法適用於內戰之發展 法學論著 21
+四、第二附加議定書中某些條款之習慣
+法地位及其適用範圍之擴大
+從條約效力分析，第二附加議定書適用於
+非國際性武裝衝突有嚴格的條件限制。只有
+在前南斯拉夫國際刑事法庭（The International
+Criminal Tribunal for the Former Yugoslavia,
+ICTY）41 和盧旺達國際刑事法庭（The International Criminal Tribunal for Rwanda, ICTR）42
+成立後，國際社會始普遍接受內戰違反作戰
+規則的行為得承擔國際刑事責任，可見國家
+和國際刑事法院的實踐對這一點已經有所突
+破。在武裝衝突期間緩期執行死刑，將死刑
+延期至敵對行為之後。43
+【案例】
+A.檢察官訴塔迪奇案（
+）44
+塔迪奇（Dusko Tadic），波士尼亞塞爾
+維亞人，遭到前南斯拉夫國際刑事法庭（International Criminal Tribunal for the formal
+Yugoslavia, ICTY），訴以違反人道罪（crimes against humanity），其破壞戰爭習慣法
+規，嚴重違反 1949 年日內瓦公約 45。在審判
+和上訴時，其辯護之主要論據乃在前南斯拉
+40 弗朗索瓦．比尼翁，〈習慣國際人道法〉《中國國際法年刊》，2008 年，頁 365-401。
+41 On 25 May 1993, the UN Security Council established the International Criminal Tribunal for the Former
+Yugoslavia (ICTY) under Chapter VII of the UN Charter in SC Res. 827 (25 May 1993) to prosecute natural
+persons accused of committing acts constituting grave breaches of the 1949 Geneva Convention for violations
+of International Humanitarian Law (IHL) in the former Yugoslavia carried out after 1 January 1991 (7 months
+before Slovenia became the first former Yugoslav State to declare independence). Rachel Kerr,
+(Oxford: Oxford
+University Press, 2004).
+42 The International Criminal Tribunal for Rwanda (ICTR) was established by the UN Security Council acting under Chapter VII of the UN Charter in SC Res. 955 ( 8 November 1994). The ICTR is the first international tribunal having competence over crimes committed in an internal armed conflict. Under its Statute, the ICTR has
+jurisdiction over natural persons accused of committing the crime of genocide, crime against humanity and violations of Common Article 3 of the 1949 Geneva Conventions and of Additional Protocol II on the territory of
+Rwanda or by Rwanda citizens on the territory of neighbouring States between 1 January 1994 and 31 December
+1994. Payam Akhavan, "The Crime of Genocide in the ICTR Jurisprudence,"
+, 3 (2005), p. 989；凌岩，〈盧旺達問題國際法庭對非國際武裝衝突中戰爭罪的審判 〉 《中國國
+際法年刊》，2007 年，頁 171-193。
+43 William A. Schabas, , 3rd (Cambridge: Cambridge University Press, 2002).
+44 檢察官訴塔迪奇案( ), ICTY Case No.IT-94-1-A; ICTY Appeal decision, Decision on the Defence Motion for Interlocutory Appeal on Jurisdiction, 2 October 1995.凌岩，〈前南
+斯拉夫國際法庭： “塔蒂奇案” 〉《中國國際法年刊》，1995 年，頁 236-243；凌岩，〈起訴前南斯
+拉夫境內戰犯的國際法庭的《程序和證據規則》 〉，《中國國際法年刊》，1994 年，頁 194-204；《跨
+世紀的海牙審判：記聯合國前南斯拉夫國際法庭》(北京：法律出版社，2002 年)，頁 369；王秀梅等
+著，《國際刑事審判案例與學理分析》(第一卷)，第 3 章，頁 152-201。
+45 1949 年《日內瓦公約》強調，犯有嚴重違反《日內瓦公約》的人，對此種違反應負個人責任。《前南
+斯拉夫問題國際法庭規約》第 2 條規定，法庭應有權起訴犯下或命令他人犯下嚴重違反《日內瓦公約》
+規定受到保護的人或財產的行為者︰ 故意殺害； 酷刑或不人道待遇，包括生物學實驗； 故意使
+22 法學論著 軍法專刊第 56 卷第 4 期 趙國材
+夫國際刑事法庭的合法性及管轄權。針對這
+兩項法律爭點，他質疑前南斯拉夫國際刑事
+法庭的合法性，認為法庭只對國際武裝衝突
+具有管轄權，惟其所涉案者乃是國內武裝衝
+突，法庭對此沒有管轄權，並重申國家法院
+優先於前南斯拉夫國際刑事法庭。審判法庭
+宣布：
+前南斯拉夫國際刑事法庭乃依聯合國
+憲章的適當程序而建立，並對公正審
+判提供保障；法源依據係聯合國安全
+理事會第 827 號決議案（1993 年），
+法庭之逮捕令是聯合國安理會為維持
+國際和平與安全的一項執行行動，各
+國依《國際法院規約》第二九條及
+《聯合國憲章》第一○三條均有移交
+罪犯的義務，凡聯合國成員國都應執
+行法庭的逮捕令。
+法庭之管轄權範圍，包括破壞和平罪、
+戰爭罪、違反人道罪等。除非國內武
+裝衝突的當事方另有其他協議，通常
+在國內武裝衝突中，僅「違反人道
+罪」與「滅絕種族罪」受國際管轄。46
+對違反人道罪，不僅在國內法院管
+轄，也受制於國際刑法秩序，不論是
+國內武裝衝突或國際武裝衝突，這兩
+種型態的武裝衝突並無歧異，犯罪者
+均應承擔個人刑事責任。前南斯拉夫
+境內發生之武裝衝突不論屬於國內或
+國際武裝衝突性質，按照聯合國安理
+會的實踐及會員國的一般理解都構成
+和平的威脅或破壞，法庭審判在前南
+斯拉夫境內違反國際人道法的罪犯，
+目的在迫使武裝衝突各方遵守國際人
+道法。上訴分庭肯定國際法庭優於國
+內法庭原則，判定塔迪奇違反人道罪
+名成立，嚴重違反日內瓦公約，判處
+有期徒刑 20 年至 25 年監禁。上訴分
+庭對塔迪奇的前律師科以罰金，蓋其
+蔑視並提交兩名證人之虛假意見書。
+B.檢 察 官 訴 阿 卡 蘇 案（
+Case）47
+1994 年《盧安達國際刑事法院規約》
+（Statute of International Criminal Tribunal for
+Rwanda）條規定嚴重違反《日內瓦公約》共
+同第三條及第二附加議定書的戰爭罪刑。由
+於盧安達國際刑事法庭 48 起訴的是發生在盧
+安達一國國內的武裝衝突中的國際罪行，實
+際上規定的是非國際性武裝衝突下的戰爭罪。
+該條文全為如下：「違反日內瓦公約共同第
+三條和第二附加議定書的行為，盧安達國際
+刑事法庭有權起訴犯下或命令他人犯下嚴重
+違反 1949 年 8 月 12 日各項《關於保護戰爭
+身體或健康遭受重大痛苦或嚴重傷害； 無軍事上之必要，而以非法和蠻橫方式，對財產進行大規模
+的破壞或佔用； 強迫戰俘或平民在敵對國軍隊中服務； 強迫戰俘或平民在敵對國軍隊中服務；
+故意剝奪戰俘或平民應享有的公允及合法審訊的權利； 劫持平民作人質。Luc Reydams, "Belgium Reneges on Universality: The 5 August 2003 Act on Grave Breaches on International Humanitarian Law,"
+, 1 (2003), p. 679.
+46 Roger O'Keefe, "Universal Jurisdiction: Clarifying the Basis Concept,"
+, 2 (2004), p. 735.
+47 , Trail Judgment, No. ICTR-96-4-T, 2 September 1998; , Appeal
+Judgment, 1 June 2001.
+48 International Criminal Tribunal for Rwanda was established by the Security Council in November 1994. S/
+RES/955(1994), 9 November 1994.
+趙國材 論國際人道法適用於內戰之發展 法學論著 23
+受害者的日內瓦公約》共同第三條和 1977 年
+6 月 8 日日內瓦公約第二附加議定書的行為
+的人。違法行為包括但不限於：
+強暴對待人的生命，健康以及身體或
+精神福祉，特別是謀殺以及諸如拷
+打、截肢或任何形式得體罰等酷刑；49
+集體處罰；
+劫持人質；
+恐怖主義行為；
+殘害人性尊嚴，特別是羞辱和貶損、
+強姦、迫良為娼以及任何形式的粗鄙
+攻擊；
+劫掠；
+事先未經過正規組成的提供文明人所
+承認且不可或缺的司法保證的法院審
+判而逕行宣判和執行：
+威脅要犯下上述的任何行為。」
+此一條款列舉的行為有些直接源自《日
+內瓦公約》共同第三條中的禁止性規定，另
+一些則直接源自第二附加議定書的某些條款，
+但《盧安達國際刑事法院規約》並未對其適
+用範圍給予任何提示性規定。
+盧安達國際刑事法庭在檢察官訴阿卡蘇
+案（ Case）50 中，被告
+人珍．保祿．阿卡蘇（Jean Paul Akayesu）被
+指控的第六項、第八項、第十項和第十二項
+罪行中，是對《日內瓦公約》共同第三條的
+違反，而指控第十五項罪行是對第二附加議
+定書的違反。故若要使阿卡蘇違反《日內瓦
+公約》第二附加議定書的罪名成立，則檢察
+官需要能夠證明阿卡蘇觸犯這些被指控的罪
+名時，其行為發生在盧安達內戰，是《日內
+瓦公約》第二附加議定書適用的非國際性武
+裝衝突。
+分析被併入《盧安達國際刑事法庭規約》
+第四條和《日內瓦公約》第二附加議定書的
+相關條款，是否與共同第三條皆具有習慣法
+的性質？盧安達國際刑事法庭認為，《盧安
+達國際刑事法庭規約》第四條和第二附加議
+定書的相關條款均源自《日內瓦公約》第二
+附加議定書第四條（基本保證）第二款係對
+《日內瓦公約》共同第三條內容的重申和發
+展，性質與共同第三條的習慣法無疑；《日
+內瓦公約》第二附加議定書第四條也應該屬
+於現行國際習慣法的範疇。盧安達國際刑事
+法庭透過法律解釋，消除共同第三條、《盧
+安達國際刑事法庭規約》，以及《日內瓦公
+約》第二附加議定書第四條在適用範圍上的
+分歧。
+C.檢察官訴諾曼案（
+）51
+在檢察官訴諾曼（
+49 The use of torture by certain States as a normal method of treatment of those deemed subversive to state authority, or for certain types of criminality. Torture, formerly permitted in order to extort information, or accepted
+as a form of punishment. The last few decades have seen increasing international awareness of the persistence
+of such practices as torture, abduction ('disappearance') and arbitrary, summary and extrajudicial execution,
+committed or tolerated by state agents or officials. The international community has been developing a set of rules aimed at ensuring the humane treatment of prisoners of war, and torture become illegitimate, prohibited, and
+absolute banned. , 91st Congress, Second Session (American Enterprise Institute
+for Public Policy Research, December 28, 1970), Analysis No. 26, pp. 5-14; Nigel Rodley,
+(Oxford: Clarendon Press, 1987), pp. 110-143.
+50 , Judgment, No. ICTR-96-4-T (2 September 1998)
+51 , No.SCSL-2004-14-AR72 (E). Decision on Preliminary Motion Based on
+24 法學論著 軍法專刊第 56 卷第 4 期 趙國材
+）案中，獅子山特別法庭根據第二
+附加議定書第四條第三款 C 項規定，判決徵
+募年齡在 15 歲以下的兒童入伍或利用童兵參
+加敵對行動應被制止。《獅子山特別法庭規
+約》指出徵募童兵的行為就構成戰爭罪。52
+在諾曼案中，獅子山特別法庭上訴庭對徵招
+童兵行為作為國際法下的罪刑提出解釋，但
+特別法庭的裁定引起爭議。法律爭點在於諾
+曼被指控觸犯徵募童兵罪的時候係在 1998 年
+《國際刑事法院羅馬規約》（Rome Statute of
+International Criminal Court）制定之前，是否
+是國際習慣法的罪行？但根據獅子山特別法
+庭的判決，《日內瓦公約》第二附加議定書
+的某些條款可以被認為是習慣法規則體現，
+其適用範圍再次被擴大到和《日內瓦公約》
+共同第三條相同。這是另一個反映出《日內
+瓦公約》第二附加議定書的某些規則具有國
+際習慣法性質的實例。53《國際刑事法院羅馬
+規約》第八條第五項的適用前提條件。
+上述盧安達國際刑事法庭和獅子山特別
+法庭都是透過擴張解釋條約來解決《日內瓦
+公約》第二附加議定書中某一條款，而《國
+際刑事法院羅馬規約》第八條戰爭罪，則明
+顯擴大了第二附加議定書的適用範圍。
+第二附加議定書的下列條款被併入《國
+際刑事法院羅馬規約》第八條第二
+款第五項，違反這些條款均應被視
+為戰爭罪：
+第二附加議定書第十三條第二款：平民
+不應成為武力攻擊目標；
+第二附加議定書第十一條第二款、第十
+二條：醫療隊和醫療運輸工具不應
+成為攻擊的對象以及特殊標誌的保
+護；
+第二附加議定書第十六條：文物或宗教
+場所不受攻擊；
+第二附加議定書第四條第二款第七項：
+禁止搶劫行為；
+第二附加議定書第四條第三款第三項：
+禁止徵募年齡 15 歲以下兒童入伍或
+利用其參加敵對行動；54
+第二附加議定書第四條第一款：禁止強
+Lack of Jurisdiction (Child Recruitment).
+52 Each year, many thousands of child civilians are killed, injured or otherwise physically and psychologically damaged as a result of armed conflict. There is a considerable body of international law which aims to minimize the
+harm inflicted on these children, and yet little of it is acknowledged, or observed. During the 1996 hostilities in
+Iraq children were once more exposed to the hazards of armed conflict, and the international community took
+scant notice of their particular needs or entitlements under international law. Children in situations of armed conflict will never receive the best that mankind has to give, but perhaps they may be better shielded from the worst.
+Cf. 1989 Convention on the Rights of Child. For details, see Jenny Kuper,
+(Oxford: Clarendon Press, 1997).
+53 關於核武器的威脅或使用是否合法的諮詢案( ) (Advisory
+Opinion) Case [1966] ICJ Report 66, the Court affirmed that the rules contained in the 1949 Geneva Conventions
+constitute "intransgressible principles of customary international Law"(para.95). 國際法院認為，威脅或使用
+核武器一般是違反適用於武裝衝突的國際法規則，特別是人道主義法的原則和規則。威脅或使用核武
+器,必須符合武裝衝突中所適用的國際法的要求，包括國際人道主義法的要求並須符合國際條約或公約
+關於核武器規定的明示義務。鑑於當前的國際法的狀況和國際法院面對的事實，不能得出肯定的結論
+說在極端情況下和在受害國處於危急存亡之際，威脅或使用核武器是否合法。
+54 《第一附加議定書》第 77 條禁止徵募 15 歲以下兒童入伍；《第二附加議定書》第 4 條第 3 款第 3 項
+趙國材 論國際人道法適用於內戰之發展 法學論著 25
+制遷移平民。
+上述條款為第二附加議定書之一部分，
+其適用應受第二附加議定書第一條之限制。
+《國際刑事法院羅馬規約》之條文適用限制
+為：「適用於一國境內發生的武裝衝突，倘
+若政府當局與有組織之武裝集團間，或武裝
+集團相互間長期進行武裝衝突。」這在一定
+程度上擴大了第二附加議定書的適用範圍。
+陸、陸、國際人道法在維持國家和平軍
+事行動中之適用 55
+一、國際人道法適用於聯合國維持國家
+和平部隊之爭議
+在國際性武裝衝突或國內武裝衝突中56，
+聯合國維持和平軍事行動遵守國際人道法的
+討論始於 1950 年韓戰時期，維持和平部隊在
+執行行動中適用國際人道法的問題就已確
+定 57。但對維持國家和平行動中是否及如何
+適用國際人道法的討論卻延續至今。其爭議
+主要集中於兩方面：
+維持國家和平行動之特殊性質
+支持聯合國適用國際人道法者認為 1928
+年《巴黎非戰公約》(Pact of Paris)禁止戰爭
+作為實行國家政策的工具後，在聯合國集體
+安全體制下，一國無權對他國使用武力，除
+非是在對武裝干涉或攻擊的區域安全或集體
+自衛。聯合國與成員國與非成員國之間在使
+用武力的權力問題上，處於管理與被管理的
+不平等關係。但無理由認為，兩者在國際人
+道法的適用上也不平等。且 1907 年《海牙公
+約》與 1949 年《日內瓦公約》亦無針對一方
+的保護多過另一方之規定。事實上，在武裝
+衝突中，聯合國維持國家和平部隊雖屬中立
+方，但應與衝突各方處於平等之法律地位，
+聯合國維持國際和平與安全之責任並不能解
+也禁止 15 歲以下的兒童直接或間接參與敵對行動。1989 年《兒童權利公約》第 38 條將《第一附加議
+定書》第 77 條的適用範圍擴大到非國際性武裝衝突。2000 年《兒童權利公約關於兒童捲入武裝衝突
+的任擇議定書》，限制兒童餐與敵對行動，普遍加強武裝衝突中對兒童的保護。《國際刑事法院規約》
+第 8 條第 2 款第 7 項禁止徵募 15 歲以下兒童入伍。
+55 Louis B. Sohn, "The Role of the United Nations in Civil Wars,"
+; Nikolai B. Krylov, "International Peacekeeping and Enforcement Actions After the Cold
+War," Lori Fisler Damrosch & David J. Scheffer (eds.), (Boulder/San Francisco/ Oxford: Westview Press, 1991), pp.94-100; David Brown, "The Role of the United Nations
+in Peacekeeping and Truce-Monitoring: What are the Applicable Norm," ,
+2 (1994), p. 569；Joseph "Dutch" P. Bialke, "United Nations Peace Operations: Applicable Norms and the Application of the Law of Armed Conflict," , 50 (2001), pp.1- 63. 孫萌著，《聯合國維
+和行動違法責任研究》（北京：知識產權出版社，2006 年），頁 24-32。
+56 For international and non-international armed conflict, see L.C. Green, T
+(Manchester and New York: Manchester University Press, 1993), pp. 52- 66; Yoram Dinstein,
+(Cambridge : Cambridge University Press,
+2004).
+57 The use of military measures by the United Nations includes, inter alia, UN Action for, or Authorization of, Enforcement Measures for Humanitarian Purposes, Support UN Resolutions. L. Goodrich, "Korea: Collective Measures against Aggression," International Conciliation, 494 (1953), p. 157; Rosalyn Higgins, Problems & Process: International Law and How We Use it (Oxford: Clarendon Press, 1995), pp. 254-259.
+26 法學論著 軍法專刊第 56 卷第 4 期 趙國材
+除其部隊遵循國際人道法的義務。58 若聯合
+國在維持國家和平行動中不適用國際人道法，
+必招致衝突各方亦不適用國際人道法之後果，
+如此將嚴重毀損國際人道法之價值。
+持相反觀點者則主張國際人道法為適用
+於國家間衝突的法律，而維持國家和平行動
+中，維持國家和平部隊是執法者而非敵對方，
+即便聯合國部隊為維持國家和平介入武裝國
+家衝突中，其與戰爭之目的及性質迥異，不
+得適用國際人道法；且若在維持國家和平行
+動中適用國際人道法，將使履行維持國家和
+平使命的聯合國部隊降至與侵略國同等地位。
+又《巴黎非戰公約》以戰爭解決國際爭端的
+做法視為非法，侵略國早已喪失與被侵略國
+平等的法律地位及享受法律權益的權利，故
+維持國家和平部隊不必遵守國際人道法。
+維持國家和平行動職能的有限性及軍
+事行為之特殊性
+有主張國際人道法組成部分之《日內瓦
+四公約》及其議定書的適用是以共同第二條
+所規定「戰爭或武裝衝突的情況」之發生為
+適用前提。若據此判斷，維持國家和平行動
+中並無武裝衝突發生。維持國家和平部隊之
+法律地位為中立，非衝突之一方，維持國家
+和平人員亦非戰鬥員，而公約中指向之適用
+對象僅有戰鬥員。且《聯合國人員和有關人
+員安全公約》（Convention on the Safety of
+United Nations and Associated Personnel）59，
+明確規定維持國家和平人員應受到與平民同
+等的保護，不得作為攻擊目標，故對維持國
+家和平人員適用國際人道法並不妥適。
+反對者則以為：儘管聯合國部隊在多數
+維持國家和平行動中並未參與敵對雙方間的
+戰爭或武裝衝突，但並不影響國際人道法適
+用於聯合國維持國家和平部隊。根據檢察官
+訴塔迪奇案（The ）60 之判
+決，對《日內瓦公約》共同第二條所規定之
+武裝衝突重新做出界定，即武裝衝突是訴諸
+武力的行為。準此，既然國際人道法之適用
+不再取決於衝突方正式宣戰，而為武裝衝突
+發生之事實，則國際人道法對聯合國維持國
+家和平部隊之適用亦毋須拘泥於是否滿足對
+戰爭狀態規定之法律條件。故聯合國維持國
+家和平部隊的特殊性並不影響國際人道法對
+其之適用。
+在第二代維持和平行動中，動用武力的
+情形頻繁發生，維持國家和平部隊的中立性
+亦隨之動搖，維持國家和平人員也因攻擊性
+武力的使用轉變為戰鬥員，因此對前者適用
+國際人道法並無異議。就傳統的維持國家和
+平行動而言，《聯合國人員和有關人員安全
+公約》中，維持國家和平人員應受到與平民
+同等保護之規定，並不意味維持國家和平人
+員不需遵守國際人道法的一般性法律原則及
+58 International humanitarian law, applies with equal force to all the parties in an armed conflict irrespective of
+which party was responsible for starting that conflict, is applicable to the conduct to hostilities once a State has
+resorted to the use of force (the ), that law cannot be properly understood without some examination
+of the separate body of rules which determine when resort to force is permissible (the ). The modern
+is based upon Article 2 (4) and Chapter 7 of the UN Charter where the use of force in international
+relations is prohibited. Dieter Fleck (ed.), (New York:
+Oxford University Press, 1995), p. 1.
+59 1994 年 12 月 9 日，於紐約簽訂。
+60 檢察官訴塔迪奇案( ), ICTY Case No.IT-94-1-A.
+趙國材 論國際人道法適用於內戰之發展 法學論著 27
+精神，特別在其動用武力自衛的情形下更是
+如此，此可於國際法院對國家動用自衛權的
+解釋中得到驗證。在使用核武器之合法性案
+（
+）61 中，法官對自衛與
+國際人道法的關係作出分析如下：「行使自
+衛權需受必要性和成比例兩條件之限制，此
+為國際慣例。為合法使用武力行為，尚需遵
+守武裝衝突法之規定，尤其是其中之人道原
+則與規定。」62 可見自衛並不排除遵守國際
+人道法的義務。
+聯合國在剛果（Congo）63、賽浦路斯
+（Cyprus）64、柬埔寨（Cambodia）65 及索馬
+利亞（Somalia）66 等多次維持國家和平行動
+中，其與派遣國簽訂之派遣協議及相關法律
+文件中皆規定有遵守國際人道法之條款，聯
+合國與派遣國皆承諾遵守適用於軍事人員的
+國際人道法之一般原則及精神；而盧安達維
+61 [1996] I.C.J. Rep. 66.
+62 [1996] I.C.J. Rep. 266.
+63 Congo was inadequate preparation before its independence. During 1960-1964, original the United Nations Operation in Congo was technical assistance with elections, later, changed to restoration of law and order. G. AbiSaab, (Oxford: Oxford University Press, 1978).
+64 Cyprus developments after independence, ethnic conflicts between Greek and Turk-Cypriots, removal of veto
+right, in 1964 the United Nations Peacekeeping Force assistance resorting law and order in Cyprus.
+65 Super powers support for different interest. Under the Paris Agreement, in 1992 the United Nations Transitional
+Authority in Cambodia to monitor free elections and control transition. Institution building of the Supreme National Council was aiming for repatriation and resettlement. For details, see Michael W. Doyle,
+(Boulder/London: Lynne Rienner Publishers, 1995); Michael W.
+Doyle and Ayaka Suzuki, "Transition Authority in Cambodia," Thomas G. Weiss (ed.),
+(Boulder/London: Lynne Rienner Publishers, 1995), pp. 127-149.
+66 Both Somalia previously an Italian colony and the north of the country, Somaliland, were integrated under British rule after World War II. After being a British protectorate since 1884, Somaliland became an independent
+country on 26 June 1960. Although devasted by the civil war, Somaliland consolidated administrative structures
+and restored some semblance of order despite the increasing chaos surrounding it. In 1988, a full-scale civil war
+broke out between the Mogadishu-based government and Somaliland rebels. In May 1991, as Somalia descended
+into anarchy with the fall of the government of Gen. Mohamed Siad Barre, Somaliland declared itself independent. In 1992, the Somaliland, led by the Somali National Movement, proclaimed unilateral declaration of an
+independent. In 1992-1993, the United Nations Operation in Somalia, was to monitor cease-fire among struggling clans together with Organization of American Unity (OAU), the League of Arab States (LAS) and Organization of the Islamic Conference (OIC) - Transition United Nations Operation in Somalia (UNOSOM I) to United Nations Unified Task Force (UNITAF) to UNOSOSOM II- change to peace enforcement under Chapter 7
+of the UN Charter. For details, see Newton Bowles, "Somalia: Learning the Hard Way," Eric Fawcett and Hanna Newcombe (eds.), (Toronto: Science for Peace,
+University College, University of Toronto, 1995), pp. 131-137;Debarati G. Sapir and Hedwig Deconinck, "The
+Paradox of Humanitarian Assistance and Military Intervention in Somalia," Thomas G. Weiss (ed.),
+(Boulder/London: Lynne Rienner Publishers, 1995), pp. 151-172; Captain (N) Leif
+Ahlquist, (Sweden: Department of Operations, Swedish War College, 1996).
+28 法學論著 軍法專刊第 56 卷第 4 期 趙國材
+持國家和平行動（Rwanda Peacekeeping Operation）中，聯合國維持國家和平部隊亦承諾
+遵守國際人道法之一般法律原則及精神；在
+聯合國頒布的《維持和平行動部隊地位協定
+範本》（Model Status-of-Forces Agreement for
+Peace-keeping Operations）67 第二十八條中亦
+有相同規定。
+國際人道法適用於聯合國部隊之法源為
+一般國際習慣法，而非國際條約，因聯合國
+並非《海牙公約》與《日內瓦公約》及其議
+定書等主要國際人道法公約之締約方，聯合
+國也不傾向成為其締約方。由於傳統的維持
+國家和平人員並非戰鬥員，適用公約將改變
+其於衝突中之被保護地位，威脅其人身安全；
+且聯合國部隊尚需考慮非締約方成員國之立
+場與態度，但這不影響國際人道法公約中部
+分條款成為具有拘束力的國際習慣法，適用
+於聯合國及其專門機構，不論其締約與否。
+1956 年 10 月 29 日，聯合國派往埃及的
+緊急部隊（United Nations Emergency Force in
+Egypt, UNEF I） 68 建立，國際紅十字委員會
+便致函聯合國要求其遵守《日內瓦公約》，
+之後，並於多次維持和平行動中，敦促聯合
+國將其維持和平人員使用武力之行為置於國
+際人道法規範之下。對此，聯合國的態度始
+終為要求武裝部隊盡可能謹慎遵守《日內瓦
+公約》的一般性法律原則，69 理由為聯合國
+職能有限，公約中許多條款無法適用於維持
+國家和平行動，故無法遵守公約中所有義務。
+聯合國將國際人道法的一般性法律原則及精
+神確定為維持國家和平部隊之行為標準，雖
+為其設定一定的行為規範，但於實踐中仍存
+在許多不確定因素。
+三、聯合國部隊遵守國際人道法之秘書
+長公告
+聯合國在維持國家和平行動中出?使用武
+力之情形，維持和平人員違反國際人道法之
+行為日漸增加，國際社會呼籲聯合國維持和
+平部隊適用國際人道法的聲浪更加強烈，維
+持和平部隊承諾遵守國際人道法之一般性法
+律原則及精神的確定性日益明顯，於是聯合
+國自 1995 年與國際紅十字會合作起草適用於
+聯合國部隊的國際人道法規則。1997 年國際
+紅十字會將草案提交聯合國；1999 年 8 月 6
+日，聯合國祕書長安南發布《聯合國部隊遵
+守國際人道法秘書長公告》(Secretary-General's Bulletin Observance by United Nations
+Forces of International Humanitarian Law)，公
+告中闡明聯合國部隊應遵守的國際人道法規
+則，並規定上述規則適用於「聯合國維持和
+平部隊執行維持和平行動和武力執行行動中
+參與武裝衝突的情況」，其中涵蓋保護平民、
+限制性作戰方法與手段、平民和戰爭受難者
+的待遇與保護傷者、病者及衛生救援人員等
+內容。70 故《聯合國部隊遵守國際人道法秘
+67 1990 年 10 月 9 日簽訂。
+68 因蘇伊士運河危機而於 1956 年 8 月建立，目的在停止敵對行動，並令各國武裝部隊撤出埃及領土；撤
+軍後，聯合國緊急部隊充當埃及和以色列間的緩衝機制。D. W. Bowett,
+(New York/Washington: Frederick A. Praeger Publishers, 1966), pp. 90-109; Mona Ghali, "United Nations Emergency Force I," William J. Durch (ed.),
+(London: Macmillan Press, 1993 ),pp. 104-130.
+69 Umesh Palwankar (ed.), "Applicability of International Humanitarian Law to United Nations Peacekeeping Operations," , No. 294 (1993), p. 229.
+趙國材 論國際人道法適用於內戰之發展 法學論著 29
+書長公告》雖在聯合國部隊遵守國際人道法
+上有所邁進，但尚非完整解決方案。可見國
+際人道法在聯合國維持和平行動中適用於不
+同國家的情況，有助確定聯合國維持國家和
+平行動應遵循之國際人道法的義務，聯合國
+維持國家和平行動一旦違反國際人道法之義
+務就要承擔相應責任。
+柒、結 論
+一、中央政府為維護國家統一和領土完
+整得使用武力對抗分裂
+國際法基於尊重國家主權和領土完整原
+則，中央政府為維護國家統一和領土完整，
+得使用武力對抗分裂；倘若他國插手，援助
+或支持叛亂團體，都屬於干涉內政，中央政
+府有權對其實施自衛。除非叛亂團體已被承
+認為交戰團體，內戰的任何一方均不得在公
+海上，截留或搜索外國商船；叛亂團體一旦
+取得交戰團體的地位，便有權在公海上干預
+外國商船與中央政府控制下的地區貿易一旦
+叛亂演變成為內戰，國際法禁止任何國家襄
+助內戰中的任何一方，例如：派遣武裝力量
+或志願軍、指導人員、技術人員；訓練非常
+備軍；提供任何武器或可做為軍事行動的基
+地，補給、避難或部隊或裝備運輸等通過。
+二、國家希望藉主權來保持對於國內武
+裝衝突之控制
+國際人道法賦予所有交戰者完全相同的
+權利與義務，不論是國際性武裝衝突或國內
+武裝衝突。綜觀適用於非國際性武裝衝突的
+1949 年《日內瓦公約》共同第三條及 1977 年
+日內瓦第二附加議定書，可以歸納出適用於
+國內武裝衝突的國際人道法規則遠不如適用
+於國際性武裝衝突的國際人道法規則來得完
+善，造成如此明顯的分野並非源於法律體系
+內部的不和諧，而是國家希望以主權來保持
+對於國內武裝衝突的控制。
+三、國家不願意將完整之人道法規則適
+用於國內武裝衝突
+國際人道法不創造國際性武裝衝突或國
+內武裝衝突，也不影響交戰雙方的法律地位，
+但許多國家不願意將完整國際人道法規則適
+用於國內武裝衝突，國家若發現行將捲入或
+已經捲入國際武裝衝突或國內武裝衝突，往
+往出於擔心而不願加入 1977 年兩個日內瓦附
+加議定書，以免承擔國際人道法義務，甚至
+將國際人道法義務作為談判籌碼，使國家得
+以自行決定在何時適用日內瓦附加議定書的
+義務。
+四、國際人道法由保護國家利益逐漸趨
+向保護平民利益
+發生在兩國或兩國以上之間的國際性武
+裝衝突中，國際人道法既要保護平民免遭交
+戰雙方敵對行動的殃及，亦要限制使用大規
+模殺傷性武器（weapon of mass destruction,
+WMD）71，避免對平民及非軍事目標造成不
+70 對此，有學者批評此公告忽略維持和平行動與執行行動的差別，僅提供單一解決方案，亦無規定上述
+規則何時適用於維持和平部隊的操作性問題。
+71 In (Advisory Opinion) [1996] ICJ Rep. 226, where on 8 July
+1996 the Court advised, inter alia, (a) (unanimously) that a threat or use of force by nuclear weapons that was
+contrary to Article 2 (4) of the UN Charter, the prohibition on the use or threat of force, and that did not meet
+the requirements of Article 51, concerning self-defense, was unlawful; (b) (unanimously) that a threat or use of
+30 法學論著 軍法專刊第 56 卷第 4 期 趙國材
+必要的損害，國際人道法的價值由保護國家
+利益逐漸趨向保護平民利益。根據聯合國憲
+章和國際人道法，在武裝衝突中保護平民工
+作重在預防，而其責任首先在於當事國政府。
+在一國境內發生的武裝衝突，國際人道法卻
+鮮能對受害者提供有效保護。當考慮武裝衝
+突法中人道利益的時候，國際戰爭和內戰之
+間的界限正逐漸喪失其原有的差異。從保護
+戰時受害者之角度出發，國際人道法原本適
+用於國際性武裝衝突的規則亦逐漸適用於內
+戰。
+五、日內瓦第二附加議定書是對日內瓦
+公約共同第三條之補充
+內戰係指發生在一個國家內兩個或多個
+政治團體間為爭取分離、獨立或統一的武裝
+衝突。《日內瓦公約》的締約國將國際武裝
+衝突的法律規範延伸至非國際性武裝衝突，
+國際人道法基本原則擴大適用於內戰或爭奪
+一國的政權，而不論交戰狀態是否已獲得承
+認。日內瓦第二附加議定書旨在保護內戰受
+害者，係對日內瓦共同條款第三條之補充，
+亦是專門規定在內戰或國內武裝衝突中，對
+個人實施保護及對限制使用武力的普遍性條
+約。通過協商一致，《第二附加議定書》草
+案刪除有關戰鬥員特權地位關於敵對行為、
+救助、醫療職責和實施機制等問題。議定書
+詳細列舉人權與基本自由保障，受到限制者
+權利、司法保障，皆大幅超過人權法最核心
+的要求。
+六、聯合國維持和平部隊有遵循國際人
+道法之義務
+聯合國維持和平部隊在執行維持和平行
+動和武力執行行動中參與武裝衝突情況下，
+亦有遵循國際人道法之義務，一旦違反國際
+人道法之義務就要承擔相應責任。
+七、國際人道法適用於國內武裝衝突之
+普遍化
+國際人道法的精神已成為普世價值，目
+的在於保護傷病兵及平民，避免不必要的傷
+害。世界各國理當竭盡全力保護武裝衝突的
+受害者，促進《日內瓦公約》及其《第一、
+第二兩個議定書》的普遍遵循。72 但凡簽署
+1949 年《日內瓦公約》及其 1977 年《附加
+議定書》之各締約國承諾其在所有情況下均
+履行其所作的承諾，尊重這些國際法規並確
+保其被尊重。在條約法上只有國家可以成為
+國際條約的締約方，這一點對《日內瓦公約》
+force by nuclear weapons should coincide with the requirements of international law applicable in armed conflict, especially the rules and principles of international humanitarian law, as well as treaty provisions and other
+rules involving nuclear weapons; (c) (7 to 7)that the threat or use of nuclear weapons would generally contradict
+the rules of international law applicable to armed conflict, especially the principles and rules of humanitarian
+law. The UN Conference on Prohibitions or Restrictions of Use of Certain Conventional Weapons which may
+be deemed to be excessively injurious or to have indiscriminate effects on 10 October 1980 adopted a Convention
+on Prohibitions or Restrictions on the use of such weapons together with Protocols on Non-Detectable Fragments; Mines and Booby Traps; and Incendiary Weapons together with a Resolution on Small-Calibre Weapon
+System.阿瑟．H．專斯汀，淺之、徐明譯，《大規模毀滅性武器與環境》，北京：科學技術文獻出版
+社，1998 年，頁 1-57。
+72 瑞內 科瑟爾尼柯，〈1997 年議定書：國際人道主義法發展史中的一座里程碑〉，《國際人道主義法
+文選》(北京：法律出版社，1999 年)，頁 83-112。
+趙國材 論國際人道法適用於內戰之發展 法學論著 31
+及其《附加議定書》也同樣適用。截至 2004
+年底，世界上192個國家都是《日內瓦公約》
+的締約國。《日內瓦公約》得到最大多數國
+家接受的事實證明其普遍性。關於《日內瓦
+附加議定書》的情況是：截止至同一日期，
+有 162 個國家批准《第一議定書》，成為第
+一議定書的締約國；有 157 個國家成為《第
+二議定書》的締約國；國際社會近 3/4 的國
+家都已加入這兩個議定書，獲得國際社會廣
+泛接受，可見國際人道法適用於國際及國內
+武裝衝突的普遍化，故然武裝衝突各方，不
+論是國家或非國家參與者，都受到國際人道
+法的拘束。
+八、在武裝衝突期間緩期執行死刑
+在武裝衝突期間緩期執行死刑，將死刑
+延期至敵對行為之後。《關於保護面臨死刑
+的人的權利保障措施》第 3 條規定，對非國
+際性武裝衝突落入敵方勢力的參戰者，除戰
+爭罪和違反人道罪外，如其犯罪屬於輕罪情
+節者，或僅參與，並充分確定為參與武裝衝
+突者，廢除死刑。不得對孕婦判處死刑，禁
+止對新生兒母親判處或執行死刑；不得對於
+未滿 15 歲參與武裝衝突犯罪者判處死刑，此
+一保護亦擴展至幼童的母親，在武裝衝突期
+間不得對幼童的母親或照顧幼童負有責任的
+婦女判處或執行死刑。
+參考書目
+一、英文部分
+案例
+Case (United Kingdom v. Albania) [1948] ICJ Report 15;
+Case (United Kingdom v. Albania) (Merits) [1949] ICJ Report 4.
+(Advisory Opinion) [1996] ICJ Rep. 226,
+(Nicaragua v. USA) (Jurisdiction) [1984] ICJ Report 169.
+(Nicaragua v. USA) (Merits)
+[1986] ICJ Report 14.
+, Trail Judgment,
+No. ICTR-96-4-T, 2September 1998.
+, Appeal Judgment, 1
+June 2001.
+, No.
+SCSL-2004-14-AR72 (E).
+, ICTY Case No.
+IT-94-1-A.
+, ICTY Appeal decision, Decision on the Defence Motion for Interlocutory Appeal on Jurisdiction, 2October
+1995.
+, ICTY Trail Judgment,
+7 May 1997.
+書籍
+Abi-Saab, G.,
+(Oxford: Oxford University Press,
+1978).
+32 法學論著 軍法專刊第 56 卷第 4 期 趙國材
+Ahlquist, Captain (N) Leif,
+(Sweden: Department of Operations,
+Swedish War College, 1996).
+Bowett, D. W.,
+(New York/Washington: Frederick A.
+Praeger Publishers, 1966).
+Chantal de Jonge Oudraat, "The United Nations
+and Internal Conflict," Brown, Michael E.,
+(ed.),
+(Cambridge, Massachusetts: The MIT
+Press, 1996), pp. 489-535.
+Cassese, Antonio, "The Spanish Civil War and
+the Development of Customary Law Concerning
+Internal Armed Conflicts," Antonio Cassese,
+Dott. A. Giuffre (eds.),
+(Milano, 1975), pp.
+287-318.
+Dinstein, Yoram,
+(Cambridge: Cambridge University Press,
+2004).
+Doyle, Michael W.,
+(Boulder/London: Lynne Rienner Publishers, 1995).
+Michael W. Doyle and Ayaka Suzuki, "Transition Authority in Cambodia," Thomas G. Weiss
+(ed.), The United Nations and Civil Wars (Boulder/London: Lynne Rienner Publishers, 1995),
+pp. 127-149.
+Fawcett, Eric, and Newcombe, Hanna, (eds.),
+(Toronto: Science for Peace, University College, University of Toronto, 1995).
+Fleck, Dieter, (ed.),
+(New York: Oxford University Press, 1995).
+Gardam, Judith,
+(Cambridge: Cambridge University Press, 2004).
+Ghali, Mona, "United Nations Emergency
+Force I," William J. Durch (ed.),
+(London: Macmillan Press,
+1993 ),pp. 104-130.
+Leslie C. Green,
+, 2nd ed. (Manchester: Manchester
+University Press, 2000).
+Green, L.C.,
+(Manchester and New York: Manchester University Press, 1993).
+Greenwood, Christopher, "Historical Development and Legal Basis," Dieter Fleck (ed.),
+(Oxford: Oxford University Press, 1995).
+Higgins, Rosalyn,
+(Oxford: Clarendon Press, 1995).
+Kalshoven, Frits, "Applicability of Customary
+趙國材 論國際人道法適用於內戰之發展 法學論著 33
+International Law in Non-International Armed
+Conflicts," Antonio Cassese, Dott. A. Giuffre
+(eds.),
+(Milano, 1975), pp. 267-285.
+Kerr, Rachel,
+(Oxford: Oxford
+University Press, 2004).
+Krylov, Nikolai B., "International Peacekeeping
+and Enforcement Actions After the Cold War,"
+Lori Fisler Damrosch & David J. Scheffer
+(eds.),
+(Boulder/San Francisco/ Oxford: Westview Press, 1991), pp. 94-100
+Kuper, Jenny,
+(Oxford:
+Clarendon Press, 1997).
+Levie, Howard S., (ed.),
+(Dordrecht/Boston/Lancaster: Martinus Nijhoff Publishers, 1987).
+McCoubrey, Hilaire,
+(Aldershot, Hants: Dartmouth Publishing Co.,
+1990), pp. 171-186.
+McCoubrey, Hilaire, and White, Nigel D., International Organizations and Civil Wars (Aldershot: Dartmouth, 1995).
+McNair, Arnold D., "The Law Relating to the
+Civil War in Spain,"
+(Leiden: A.W. Sijthoff/ Dobbs Ferry, New York: Oceana Publications, 1974), 117-145.
+O'Connell, D.P.,
+(Manchester University Press, 1975).
+O'Neill, Band E., "Insurgency: Framework for
+Analysis," Band E. O'Neill, William R. Heaton,
+and Donald J. Alberts (eds.),
+(Boulder, Colo.: Westview Press, 1988), pp.1-44.
+Pictet, J.,
+(The Netherlands:
+Martinus Nijhoff, 1985).
+Rodley, Nigel,
+(Oxford: Clarendon Press, 1987).
+Sapir, Debarati G., and Deconinck, Hedwig,
+"The Paradox of Humanitarian Assistance and
+Military Intervention in Somalia," Thomas G.
+Weiss (ed.),
+(Boulder/London: Lynne Rienner Publishers,
+1995), pp. 151-172.
+Schabas, William A.,
+, 3rd (Cambridge: Cambridge University Press, 2002).
+(Washington, D.C.: Government Printing Office, 1899), Series III, Volume 3, pp.
+34 法學論著 軍法專刊第 56 卷第 4 期 趙國材
+148-164.
+Thomas, Ann van Wijnen and A. J. Thomas Jr,
+"International Legal Aspects of the Civil War in
+Spain, 1936-39," Richard A. Falk (ed.),
+(Ann Arbor,
+Mich.: UMI, A Bell & Howell Co., 1993), pp.
+110-78.
+期刊
+American Enterprise Institute for Public Policy
+Research, , 91st
+Congress, Second Session, Analysis, No. 26
+(December 28, 1970), pp. 5-14.
+Akhavan, Payam, "The Crime of Genocide in
+the ICTR Jurisprudence,"
+, 3 (2005), pp. 989-1006.
+Bialke, Joseph "Dutch" P., "United Nations
+Peace Operations: Applicable Norms and the
+Application of the Law of Armed Conflict,"
+, 50 (2001), pp.1- 63.
+David Brown, "The Role of the United Nations
+in Peacekeeping and Truce-Monitoring: What
+are the Applicable Norm,"
+, 2(1994), p. 569.
+Doyle, Michael W.,
+e (Boulder/London: Lynne Rienner Publishers, 1995).
+Doyle, Michael W., and Suzuki, Ayaka, "Transition Authority in Cambodia," Thomas G.
+Weiss (ed.), The United Nations and Civil Wars
+(Boulder/London: Lynne Rienner Publishers,
+1995), pp. 127-149.
+Garner, James W., "Spanish Civil War – Neutrality Policy of the United States,"
+, 18 (1937), pp.
+197-198.
+----------------------, "Recognition of Belligerency," ,
+32(1938), p.106.
+Goodrich, L., "Korea: Collective Measures against Aggression," ,
+494 (1953), pp. 131-192.
+Gray, Christine, "Bosnia and Herzegovina: Civil War or Inter-State Conflict? Characterization
+and Consequences,"
+67 (1996), pp. 155-197.
+Gutteridge, Joyce A.C., "The Geneva Conventions of 1949,"
+, 26 (1949), pp. 294-326.
+Kalshoven, Frits, "Belligerent Reprisals Revisited,"
+, 21(1990), pp. 43-80.
+Lyons, A.B., "The Conclusiveness of the Foreign Office Certificate,"
+, 23 (1946), pp. 241-281.
+---------------, "The Conclusiveness of the 'Suggestion' and Certificate of the American State
+Department,"
+, 24 (1947), pp. 116-147.
+趙國材 論國際人道法適用於內戰之發展 法學論著 35
+Marie-France, Major, "Mercenaries and International Law,"
+, 22 (1992), pp.103-150.
+McNair, Arnold D., "The Law Relating to the
+Civil War in Spain," , 53
+(1937), pp. 471-500.
+O'Keefe, Roger, "Universal Jurisdiction: Clarifying the Basis Concept,"
+, 2(2004), pp. 735-760.
+Palwankar, Umesh, (ed.), "Applicability of International Humanitarian Law to United Nations
+Peacekeeping Operations,"
+, No. 294 (1993), pp. 227-240.
+Reydams, Luc, "Belgium Reneges on Universality: The 5 August 2003 Act on Grave Breaches
+on International Humanitarian Law,"
+, 1 (2003), p.
+679-689.
+Louis B. Sohn, "The Role of the United Nations
+in Civil Wars,"
+.
+'The United States "Neutrality" Law of 1937,'
+, 19
+(1938), pp. 44-66.
+二、中文部分
+書籍
+王秀梅等著，《國際刑事審判案例與學理分
+析》(第一卷)，北京：中國法制出版
+社，2007 年。
+朱利江，《對國內戰爭法罪的普遍管轄與國
+際法》，北京：法律出版社，2007 年。
+阿瑟．H．專斯汀，《大規模毀滅性武器與
+環境》，淺之、徐明譯，北京：科學技術
+文獻出版社，1998 年。
+凌岩，《跨世紀的海牙審判：記聯合國前南
+斯拉夫國際法庭》，北京：法律出版社，
+2002 年。
+孫萌著，《聯合國維和行動違法責任研究》
+（北京：知識產權出版社，2006 年）。
+期刊
+弗朗索瓦．比尼翁，〈習慣國際人道法〉《中
+國國際法年刊》，2008 年，頁
+365-401。
+朱文奇，〈論日內瓦公約體系〉，《中國國
+際法年刊》，1992 年，頁 15-45。
+----------， 《國際刑事法院與中國》，北京：
+中國人 民 大 學 出 版 社，2009 年，頁
+133-134。
+凌岩，〈前南斯拉夫國際法庭：〝塔蒂奇
+案〞〉《中國國際法年刊》，1995 年，
+頁 236-243。
+------，〈起訴前南斯拉夫境內戰犯的國際法
+庭的《程序和證據規則》〉，《中國
+國際法年刊》，1994 年，頁 194-204。
+------，〈盧旺達問題國際法庭對非國際武裝
+衝突中戰爭罪的審判〉《中國國際
+法年刊》，2007 年，頁 171-193。
+瑞內 科瑟爾尼柯，〈1997 年議定書：國際
+人道主義法發展史中的一座里程碑〉，
+《國際人道主義法文選》，北京：法律出
+版社，1999 年，頁 83-112。
+〈第 63 屆聯合國大會中國之立場文件〉(2008
+年 9 月 16 日)，《中國國際法年刊》，2008
+年，頁 475，477。

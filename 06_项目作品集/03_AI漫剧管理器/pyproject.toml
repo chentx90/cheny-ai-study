@@ -1,0 +1,30 @@
+[project]
+name = "ai-drama-manager"
+version = "0.1.0"
+description = "AI漫剧管理器 - 小说转剧本CLI工具"
+requires-python = ">=3.11"
+dependencies = [
+    "typer[all]>=0.12",
+    "rich>=13",
+    "langchain>=0.3",
+    "langchain-openai>=0.2",
+    "langchain-anthropic>=0.3",
+    "langchain-ollama>=0.2",
+    "langgraph>=0.2",
+    "pydantic>=2",
+    "jinja2>=3",
+    "tomli>=2;python_version<'3.11'",
+]
+
+[project.optional-dependencies]
+dev = ["pytest", "ruff"]
+
+[project.scripts]
+drama = "drama_manager.cli:app"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/drama_manager"]

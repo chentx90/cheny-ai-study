@@ -1,0 +1,21 @@
+services:
+  ai-video-manager:
+    build:
+      context: .
+      dockerfile: Dockerfile.runtime
+    image: ai-video-manager:runtime
+    container_name: ai-video-manager
+    restart: unless-stopped
+    ports:
+      - "${AVM_HOST_PORT:-8010}:8000"
+    environment:
+      AVM_WORKSPACE_ROOT: /data
+      AVM_DB_PATH: /data/database/app.db
+      AVM_STATIC_DIR: /app/frontend/dist
+      AVM_SERVE_UI: "1"
+      AVM_AUTH_DISABLED: "${AVM_AUTH_DISABLED:-1}"
+      # 星链云参考图唯一途径：OSS 直传 oss.vjimeng.vip（见 gateway_media.py / docs/09）
+      # AVM_PUBLIC_BASE_URL 不再用于视频参考素材。
+      AVM_PUBLIC_BASE_URL: "${AVM_PUBLIC_BASE_URL:-}"
+    volumes:
+      - ./data:/data

@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>AI 漫剧管理器</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <aside class="sidebar">
+      <div class="brand">
+        <span class="brand-mark">M</span>
+        <div>
+          <strong>AI 漫剧管理器</strong>
+          <small>结构化制作台</small>
+        </div>
+      </div>
+      <form id="create-work-form" class="new-work">
+        <input id="new-work-title" autocomplete="off" placeholder="新作品标题" />
+        <button type="submit">新建</button>
+      </form>
+      <div id="work-list" class="work-list"></div>
+    </aside>
+
+    <div class="resize-handle left-resizer" id="left-resizer" title="拖动调节左侧栏宽度"></div>
+
+    <main class="main">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">WORKSPACE</p>
+          <h1 id="work-title">选择一个作品</h1>
+        </div>
+        <div class="top-actions">
+          <button id="sidebar-toggle" class="ghost-button" type="button">收起侧栏</button>
+          <button id="prompt-config-button" class="ghost-button" type="button">提示词配置</button>
+          <button id="validate-button" class="ghost-button" type="button">校验</button>
+          <button id="refresh-button" type="button">刷新</button>
+        </div>
+      </header>
+
+      <section id="overview" class="overview"></section>
+
+      <nav class="tabs" aria-label="内容视图">
+        <button class="active" data-tab="episodes" type="button">剧集</button>
+        <button data-tab="entities" type="button">实体</button>
+        <button data-tab="shots" type="button">镜头</button>
+        <button data-tab="prompts" type="button">提示词</button>
+        <button data-tab="assets" type="button">素材</button>
+        <button data-tab="source" type="button">原文</button>
+        <button data-tab="operations" type="button">日志</button>
+      </nav>
+
+      <section id="panel" class="panel"></section>
+    </main>
+
+
+
+    <div id="toast" class="toast" hidden></div>
+    <div id="modal-root" class="modal-root" hidden></div>
+    <script src="/static/app.js" type="module"></script>
+  </body>
+</html>

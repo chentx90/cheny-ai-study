@@ -1,0 +1,13 @@
+services:
+  manga-manager:
+    build: .
+    container_name: ai-manga-manager
+    ports:
+      - "8010:8000"
+    environment:
+      MANGA_DATA_DIR: /app/data
+      PYTHONIOENCODING: utf-8
+    volumes:
+      - ./data:/app/data
+      - ./config.toml:/app/config.toml:ro
+    restart: unless-stopped

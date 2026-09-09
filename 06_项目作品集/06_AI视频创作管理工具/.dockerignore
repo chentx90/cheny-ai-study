@@ -1,0 +1,18 @@
+.git
+.gitignore
+**/__pycache__
+**/.pytest_cache
+**/.venv
+**/node_modules
+# frontend/dist is required by Dockerfile.runtime (host-built UI)
+database/*.db
+projects/
+data/
+config/local_secret.key
+config/*.db
+*.egg-info
+_tmp_fix_tpl.py
+docs/
+tests/
+.cursor
+.deps
